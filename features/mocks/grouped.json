@@ -1,0 +1,9 @@
+{
+    "doc": {
+        "title": "My example document",
+        "author": "leenookx",
+        "author": "Ghost author",
+        "keyword": "example",
+        "keyword": "keyword2"
+    }
+}

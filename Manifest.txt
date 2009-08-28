@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/json_mangler
+lib/json_mangler.rb
+test/test_json_mangler.rb
