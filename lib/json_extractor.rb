@@ -75,10 +75,17 @@ class JSONExtractor
                     @force_capture = true
                 end
 
+                if @capture_depth > 0
+                    output << key << ": " << res
+                end
+
                 if @force_capture or (@mode == 1 and key == @searchval and capture)
-                    @output << output << key << ": " << res
+                    if @capture_depth == 0
+                        output << key << ": " << res
+                    end
                     capture = false
                     if @current_depth == 0
+                      @output << output
                       @force_capture = false
                     else
                         @current_depth = @current_depth - 1
@@ -86,6 +93,10 @@ class JSONExtractor
                 end
 
                 more_pairs = @input.scan(/\s*,\s*/) or break
+
+                if @capture_depth > 0
+                    output << ", "
+                end
             end
             error("Missing object pair") if more_pairs
             @input.scan(/\s*\}/) or error("Unclosed object")

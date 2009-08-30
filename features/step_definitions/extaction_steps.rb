@@ -50,3 +50,14 @@ Then /^the resultant JSON data contains the array$/ do
    assert_equal(extraction_comparison, @extraction_results)
 end
 
+When /^I try and extract data from the keyword array with a depth of 2$/ do
+    je = JSONExtractor.new
+    @extraction_results = je.extract(@extraction_input, "data", "1999", 2) 
+end
+
+Then /^the result JSON data contains the array and its parent$/ do
+   extraction_comparison = File.open('features/test_comparisons/2level_extraction.json', 'r') {|f| f.readlines.to_s}
+
+   assert_equal(extraction_comparison, @extraction_results)
+end
+

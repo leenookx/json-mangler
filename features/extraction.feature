@@ -28,3 +28,7 @@ Feature: Creation
     When I try and extract data from the keyword array
     Then the resultant JSON data contains the array
 
+  Scenario: Ensure that multiple levels of data can be returned
+    Given I already have a JSON stream
+    When I try and extract data from the keyword array with a depth of 2
+    Then the result JSON data contains the array and its parent
