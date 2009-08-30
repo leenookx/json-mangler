@@ -5,10 +5,28 @@ require 'strscan'
 
 class JSONExtractor
 
-    def extract(input, search)
+    def initialize
+      @output = ""
+      @force_capture = false
+    end
+
+    def extract(input, extract_mode, search)
+        @output = ""
+        @force_capture = false
+
         @input = StringScanner.new( input )
         @searchval = '"' + search + '"'
-        @output = ""
+
+        if extract_mode == "object"
+            @mode = 1
+        elsif extract_mode == "data"
+            @mode = 2
+        else
+           error "Unknown mode '" + extract_mode + "'. Supported [object, data]"
+        end
+
+        puts "Extracting data based on '" + extract_mode + "' values."
+
         parse_value
         results = "{ \"results\": {" + @output + "} }\n"
     end
@@ -39,20 +57,24 @@ class JSONExtractor
         if @input.scan(/\{\s*/)
             output = ""
             more_pairs = false
+            capture = false
             while key = parse_string
-            puts "::" + key  + "::" + @searchval + "::"
                 @input.scan(/\s*:\s*/) or error("Expecting object separator")
 
-                if key == @searchval
+                if @mode == 1 and key == @searchval
                     capture = true
                 end
 
                 res = parse_value
 
-                if key == @searchval and capture
-                    puts "  ! This one matched !"
+                if @mode == 2 and res == @searchval
+                    @force_capture = true
+                end
+
+                if @force_capture or (@mode == 1 and key == @searchval and capture)
                     @output = output + key + ": " + res
                     capture = false
+                    @force_capture = false
                 end
 
                 more_pairs = @input.scan(/\s*,\s*/) or break
@@ -69,7 +91,7 @@ class JSONExtractor
             array = Array.new
             more_values = false
             while contents = parse_value rescue nil
-                array << contents.value
+                array << contents
                 more_values = @input.scan(/\s*,\s*/) or break
             end
             error("Missing value") if more_values

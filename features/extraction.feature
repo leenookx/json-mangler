@@ -13,3 +13,9 @@ Feature: Creation
     When I try and extract the authors name 
     Then the resultant JSON contains the author details
 
+  Scenario: Ensure we can extract simple data forms
+    Given I already have a JSON stream
+    When I try and extract any tags where the publishing date was 1999
+    Then the resultant JSON contains the publishing date
+
+

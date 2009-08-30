@@ -1,0 +1,2464 @@
+{
+    "doc": {
+        "info": {
+            "document": "<Document><Date>2009-05-25<\/Date><Body>Jacquelin and Khan head qualifying at 9-under - Golf - CBSSports.com PGA.hdr_bg_text{font-family:verdana,arial,helvetica,sans-serif;color:#FFFFFF;background-color:#3f5c19;\n}.bg_green{background-color:#3f5c19;}\n.tblHeader{background-color:#3f5c19; color:#FFFFFF; font-weight:bold;}\n.scorecardinfo{font-size:11px;font-family:verdana,arial,helvetica,sans-serif}\n.dropboxset{font-size:10px;font-family:verdana,arial,helvetica,sans-serif}\n.cntbase{font-family:arial,helvetica,sans-serif; font-size:11px;}\ntd.feature_pad{padding: 3px 3px 3px 10px}#GolfSplash {width: 764px; height: 594px; background: #ffffff url('http://images.cbssports.com/images/golf/new/splashbg.jpg') no-repeat top right; margin: 0px 5px; padding: 0px;}if(typeof CBSi==\"undefined\"||!CBSi){var CBSi={}}CBSi.namespace=function(){var A=arguments,E=null,C,B,D;for(C=0;C0) {var s_prop9=\"AOL\"; // for Omniturevar dclk_seg=\"aol\"; // for Doubleclick}if (!random) {var abc=Math.random() + \"\"; var random=abc.substring(2,abc.length);}var omni_vp;var switchDclk=\"on\";var switchOmni=\"on\";var switchVp=\"on\";var switchPu=\"off\";var switchDl=\"on\";var switchIE=\"on\";var switchCont=\"on\";var switchAtlas='on';var fs_adsize_option=\"\";var noShowFloat = 0;var vTag = \"golf/media/stories;arena=golf;site=media;feat=stories;type=psa;user=Anonymous\";var vTarget = \"cust=no\";var pTag = \"dcopt=ist\";var adExclude = \"none\";var uID = \"u=\";var hdr_width=985;//--&gt;var adLookup=\"media/spln/golf/reg/free/stories\";\nif (!dclk_seg) {var dclk_seg='nonaol';}\nif (dclk_seg != 'NUL') {vTag += ';seg='+dclk_seg;}\nif (!document.layers) {if (document.body.addBehavior) {document.body.addBehavior(\"#default#clientCaps\");dclk_TempStr =\";ctype=\" + document.body.connectionType +\";lang=\" + document.body.systemLanguage +\";lang=\" + document.body.userLanguage;}\n}\nif (!dclk_TempStr) {var dclk_TempStr='NUL';}\nif (dclk_TempStr != 'NUL') {vTag +=dclk_TempStr;}\nif (!vTarget) {var vTarget='vt=null';}/* surround cookie */\nvar surround=new Object();\nsurround.excludes=\"\"; // set per arena\nsurround.cat = ['a','b','c','d','e','f'];\nsurround.cookie = readCookie('surround');if (surround.cookie == false || surround.cookie == undefined) {surround.pick = Math.floor(Math.random() * surround.cat.length) + 1;document.cookie=(\"surround=\"+surround.pick+\";domain=.cbssports.com;path=/\" );surround.cookie = readCookie('surround');vTag += \";adv=\"+surround.cat[surround.pick - 1];if (surround.excludes!=\"\") {vTag += \";!category=\"+surround.excludes[surround.pick - 1];}\n}\nelse {vTag += \";adv=\"+surround.cat[surround.cookie - 1];if (surround.excludes!=\"\") {vTag += \";!category=\"+surround.excludes[surround.cookie - 1];}\n}0) {\nvar s_prop9=\"AOL\"; // for Omniture\n}\n/************************* S_ACCOUNT CONFIG **************************/\n/* You may add or alter any code config here. */\n/* E-commerce Config */\ns.currencyCode=\"USD\"\n/* Link Tracking Config */\ns.trackDownloadLinks=true\ns.trackExternalLinks=true\ns.trackInlineStats=true\ns.linkDownloadFileTypes=\"exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls\"\ns.linkInternalFilters=\"javascript:cbssports,cbsgames,sportsline\"\ns.linkExternalFilters=\"ncaa,ncaasports\"\ns.linkLeaveQueryString=false\ns.linkTrackVars=\"None\"\ns.linkTrackEvents=\"None\"/* WARNING: Changing the visitor namespace will cause drastic changes\nto how your visitor data is collected.Changes should only be made\nwhen instructed to do so by your account manager.*/\ns.visitorNamespace=\"cbs\"/************************** CONFIG SECTION **************************/\n/************************ S_V_ACCOUNT CONFIG ************************/\n/* You may add or alter any code config here. */\n/* E-commerce Config */\ns_v.currencyCode=\"USD\"\n/* Link Tracking Config */\ns_v.trackDownloadLinks=true\ns_v.trackExternalLinks=true\ns_v.trackInlineStats=true\ns_v.linkDownloadFileTypes=\"exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls\"\ns_v.linkInternalFilters=\"javascript:cbssports,cbsgames,sportsline\"\ns_v.linkExternalFilters=\"ncaa,ncaasports\"\ns_v.linkLeaveQueryString=false\ns_v.linkTrackVars=\"eVar1,eVar2,eVar3,prop24,prop25,prop26,prop27,events\"\ns_v.linkTrackEvents=\"event1,event2\"/* WARNING: Changing the visitor namespace will cause drastic changes\nto how your visitor data is collected.Changes should only be made\nwhen instructed to do so by your account manager.*/\ns_v.visitorNamespace=\"cbs\"/* Plugin Config */\ns.usePlugins=true\nfunction s_doPlugins(s) {\n/* Add calls to plugins here */\n/* Example: s.campaign = s.getQueryParam('cid'); */if(s.getQueryParam('sssdmh')) {s.campaign = s.getQueryParam('sssdmh');}if(!s.campaign) {s.campaign = s.getQueryParam('source');}\n}\ns.doPlugins=s_doPlugins/************************** PLUGINS SECTION *************************/\n/* You may insert any plugins you wish to use here.*//** Plugin: getQueryParam 1.1 - Return query string parameter values*/\ns.getQueryParam=new Function(\"qp\",\"d\",\"\"\n+\"var s=this,v='',d=d?d:'',i,t;while(qp){i=qp.indexOf(',');i=i=\n0&amp;&amp;b=0&amp;&amp;c=0){x+=(e&gt;s?f.substring(s,e):\n'')+(e==c?'\\\\n':'\\\\'+f.substring(e,e+1));s=e+1}else return x\n+f.substring(s)}return f}function s_c2fa(f){var s=f.indexOf('(')+1,e=\nf.indexOf(')'),a='',c;while(s&gt;=0&amp;&amp;s=0){d=1;q='';x=0;f=c.substring(s);a=\ns_c2fa(f);e=o=c.indexOf('{',s);e++;while(d&gt;0){h=c.substring(e,e+1);if(\nq){if(h==q&amp;&amp;!x)q='';if(h=='\\\\')x=x?0:1;else x=0}else{if(h=='\"'||h==\"'\"\n)q=h;if(h=='{')d++;if(h=='}')d--}if(d&gt;0)e++}c=c.substring(0,s)\n+'new Function('+(a?a+',':'')+'\"'+s_c2fe(c.substring(o+1,e))+'\")'\n+c.substring(e+1);s=c.indexOf('function')}fc+=s_c2fe(c)+';return s\");'\neval(fc);return f}function s_gi(un,pg,ss){var c=\"function s_c(un,pg,s\"\n+\"s){var s=this;s.wd=window;if(!s.wd.s_c_in){s.wd.s_c_il=new Array;s.\"\n+\"wd.s_c_in=0;}s._il=s.wd.s_c_il;s._in=s.wd.s_c_in;s._il[s._in]=s;s.w\"\n+\"d.s_c_in++;s.m=function(m){return (''+m).indexOf('{')0?n.length:1;while(x&amp;&amp;i&gt;=0){x=x.substring(0,i)+n+x.substri\"\n+\"ng(i+o.length);i=x.indexOf(o,i+l)}return x};s.ape=function(x){var s\"\n+\"=this,i;x=x?s.rep(escape(''+x),'+','%2B'):x;if(x&amp;&amp;s.charSet&amp;&amp;s.em==\"\n+\"1&amp;&amp;x.indexOf('%u')=\"\n+\"0){i++;if(('89ABCDEFabcdef').indexOf(x.substring(i,i+1))&gt;=0)return \"\n+\"x.substring(0,i)+'u00'+x.substring(i);i=x.indexOf('%',i)}}return x}\"\n+\";s.epa=function(x){var s=this;return x?unescape(s.rep(''+x,'+',' ')\"\n+\"):x};s.pt=function(x,d,f,a){var s=this,t=x,z=0,y,r;while(t){y=t.ind\"\n+\"exOf(d);y=y=0\"\n+\")a=a.substring(0,c);if(t.substring(0,2)=='s_')t=t.substring(2);retu\"\n+\"rn (t!=''&amp;&amp;t==a)};s.fsf=function(t,a){var s=this;if(s.pt(a,',','isf\"\n+\"',t))s.fsg+=(s.fsg!=''?',':'')+t;return 0};s.fs=function(x,f){var s\"\n+\"=this;s.fsg='';s.pt(x,',','fsf',f);return s.fsg};s.c_d='';s.c_gdf=f\"\n+\"unction(t,a){var s=this;if(!s.num(t))return 1;return 0};s.c_gd=func\"\n+\"tion(){var s=this,d=s.wd.location.hostname,n=s.cookieDomainPeriods,\"\n+\"p;if(d&amp;&amp;!s.c_d){n=n?parseInt(n):2;n=n&gt;2?n:2;p=d.lastIndexOf('.');wh\"\n+\"ile(p&gt;=0&amp;&amp;n&gt;1){p=d.lastIndexOf('.',p-1);n--}s.c_d=p&gt;0&amp;&amp;s.pt(d,'.','\"\n+\"c_gdf',0)?d.substring(p):''}return s.c_d};s.c_r=function(k){var s=t\"\n+\"his;k=s.ape(k);var c=' '+s.d.cookie,i=c.indexOf(' '+k+'='),e=i=5)eval('try{r=s.m(f)?s[f](a):f(a)}catch(e){r=s.m(\"\n+\"t)?s[t](e):t(e)}');else{if(s.ismac&amp;&amp;s.u.indexOf('MSIE 4')&gt;=0)r=s.m(\"\n+\"b)?s[b](a):b(a);else{s.eh(s.wd,'onerror',0,o);r=s.m(f)?s[f](a):f(a)\"\n+\";s.eh(s.wd,'onerror',1)}}return r};s.gtfset=function(e){var s=this;\"\n+\"return s.tfs};s.gtfsoe=new Function('e','var s=s_c_il['+s._in+'];s.\"\n+\"eh(window,\\\"onerror\\\",1);s.etfs=1;var c=s.t();if(c)s.d.write(c);s.e\"\n+\"tfs=0;return true');s.gtfsfb=function(a){return window};s.gtfsf=fun\"\n+\"ction(w){var s=this,p=w.parent,l=w.location;s.tfs=w;if(p&amp;&amp;p.locatio\"\n+\"n!=l&amp;&amp;p.location.host==l.host){s.tfs=p;return s.gtfsf(s.tfs)}return\"\n+\" s.tfs};s.gtfs=function(){var s=this;if(!s.tfs){s.tfs=s.wd;if(!s.et\"\n+\"fs)s.tfs=s.cet('gtfsf',s.tfs,'gtfset',s.gtfsoe,'gtfsfb')}return s.t\"\n+\"fs};s.ca=function(){var s=this,imn='s_i_'+s.fun;if(s.d.images&amp;&amp;s.ap\"\n+\"v&gt;=3&amp;&amp;!s.isopera&amp;&amp;(s.ns6=6.1)){s.ios=1;if(!s.d.images[imn\"\n+\"]&amp;&amp;(!s.isns||(s.apv=5))){s.d.write('');if(!s.d.images[imn])s.ios\"\n+\"=0}}};s.mr=function(sess,q,ta){var s=this,ns=s.visitorNamespace,unc\"\n+\"=s.rep(s.fun,'_','-'),imn='s_i_'+s.fun,im,b,e,rs='http'+(s.ssl?'s':\"\n+\"'')+'://'+(ns?ns:(s.ssl?'102':unc))+'.112.2O7.net/b/ss/'+s.un+'/1/H\"\n+\".1-pdv-2/'+sess+'?[AQB]&amp;ndh=1'+(q?q:'')+(s.q?s.q:'')+'&amp;[AQE]';if(s.\"\n+\"isie&amp;&amp;!s.ismac){if(s.apv&gt;5.5)rs=s.fl(rs,4095);else rs=s.fl(rs,2047)\"\n+\"}if(s.ios){im=s.wd[imn]?s.wd[imn]:s.d.images[imn];if(!im)im=s.wd[im\"\n+\"n]=new Image;im.src=rs;if(rs.indexOf('&amp;pe=')&gt;=0&amp;&amp;(!ta||ta=='_self'|\"\n+\"|ta=='_top'||(s.wd.name&amp;&amp;ta==s.wd.name))){b=e=new Date;while(e.getT\"\n+\"ime()-b.getTime()'};s.gg=function(v){v\"\n+\"ar s=this;return s.wd['s_'+v]};s.glf=function(t,a){if(t.substring(0\"\n+\",2)=='s_')t=t.substring(2);var s=this,v=s.gg(t);if(v)s[t]=v};s.gl=f\"\n+\"unction(v){var s=this;s.pt(v,',','glf',0)};s.gv=function(v){var s=t\"\n+\"his;return s['vpm_'+v]?s['vpv_'+v]:s[v]};s.havf=function(t,a){var s\"\n+\"=this,b=t.substring(0,4),x=t.substring(4),n=parseInt(x),k='g_'+t,m=\"\n+\"'vpm_'+t,q=t,v=s.linkTrackVars,e=s.linkTrackEvents;s[k]=s.gv(t);if(\"\n+\"s.lnk||s.eo){v=v?v+','+s.vl_l:'';if(v&amp;&amp;!s.pt(v,',','isf',t))s[k]=''\"\n+\";if(t=='events'&amp;&amp;e)s[k]=s.fs(s[k],e)}s[m]=0;if(t=='pageURL')q='g';e\"\n+\"lse if(t=='referrer')q='r';else if(t=='charSet'){q='ce';if(s[k]&amp;&amp;s.\"\n+\"em==2)s[k]='UTF-8'}else if(t=='visitorNamespace')q='ns';else if(t==\"\n+\"'cookieDomainPeriods')q='cdp';else if(t=='cookieLifetime')q='cl';el\"\n+\"se if(t=='visitVariableProvider')q='vvp';else if(t=='currencyCode')\"\n+\"q='cc';else if(t=='channel')q='ch';else if(t=='campaign')q='v0';els\"\n+\"e if(s.num(x)) {if(b=='prop')q='c'+n;else if(b=='eVar')q='v'+n;else\"\n+\" if(b=='hier'){q='h'+n;s[k]=s.fl(s[k],255)}}if(s[k]&amp;&amp;t!='linkName'&amp;\"\n+\"&amp;t!='linkType')s.qav+='&amp;'+q+'='+s.ape(s[k]);return ''};s.hav=functi\"\n+\"on(){var s=this;s.qav='';s.pt(s.vl_t,',','havf',0);return s.qav};s.\"\n+\"lnf=function(t,h){t=t?t.toLowerCase():'';h=h?h.toLowerCase():'';var\"\n+\" te=t.indexOf('=');if(t&amp;&amp;te&gt;0&amp;&amp;h.indexOf(t.substring(te+1))&gt;=0)retu\"\n+\"rn t.substring(0,te);return ''};s.ln=function(h){var s=this,n=s.lin\"\n+\"kNames;if(n)return s.pt(n,',','lnf',h);return ''};s.ltdf=function(t\"\n+\",h){t=t?t.toLowerCase():'';h=h?h.toLowerCase():'';var qi=h.indexOf(\"\n+\"'?');h=qi&gt;=0?h.substring(0,qi):h;if(t&amp;&amp;h.substring(h.length-(t.leng\"\n+\"th+1))=='.'+t)return 1;return 0};s.ltef=function(t,h){t=t?t.toLower\"\n+\"Case():'';h=h?h.toLowerCase():'';if(t&amp;&amp;h.indexOf(t)&gt;=0)return 1;ret\"\n+\"urn 0};s.lt=function(h){var s=this,lft=s.linkDownloadFileTypes,lef=\"\n+\"s.linkExternalFilters,lif=s.linkInternalFilters;lif=lif?lif:s.wd.lo\"\n+\"cation.hostname;h=h.toLowerCase();if(s.trackDownloadLinks&amp;&amp;lft&amp;&amp;s.p\"\n+\"t(lft,',','ltdf',h))return 'd';if(s.trackExternalLinks&amp;&amp;(lef||lif)&amp;\"\n+\"&amp;(!lef||s.pt(lef,',','ltef',h))&amp;&amp;(!lif||!s.pt(lif,',','ltef',h)))re\"\n+\"turn 'e';return ''};s.lc=new Function('e','var s=s_c_il['+s._in+'],\"\n+\"b=s.eh(this,\\\"onclick\\\");s.lnk=s.co(this);s.t();s.lnk=0;if(b)return\"\n+\" this[b](e);return true');s.bc=new Function('e','var s=s_c_il['+s._\"\n+\"in+'];if(s.d&amp;&amp;s.d.all&amp;&amp;s.d.all.cppXYctnr)return;s.eo=e.srcElement?e\"\n+\".srcElement:e.target;s.t();s.eo=0');s.ot=function(o){var a=o.type,b\"\n+\"=o.tagName;return (a&amp;&amp;a.toUpperCase?a:b&amp;&amp;b.toUpperCase?b:o.href?'A'\"\n+\":'').toUpperCase()};s.oid=function(o){var s=this,t=s.ot(o),p=o.prot\"\n+\"ocol,c=o.onclick,n='',x=0;if(!o.s_oid){if(o.href&amp;&amp;(t=='A'||t=='AREA\"\n+\"')&amp;&amp;(!c||!p||p.toLowerCase().indexOf('javascript')=0?','+t.substring(0,e)+',':'';return u&amp;&amp;u.indexOf\"\n+\"(','+un+',')&gt;=0?s.epa(t.substring(e+1)):''};s.rq=function(un){var s\"\n+\"=this,c=un.indexOf(','),v=s.c_r('s_sq'),q='';if(c=0)s.pt(t.substring(0,e),',','sqs',q);return 0};s.sqs=function\"\n+\"(un,q){var s=this;s.squ[un]=q;return 0};s.sq=function(q){var s=this\"\n+\",k='s_sq',v=s.c_r(k),x,c=0;s.sqq=new Object;s.squ=new Object;s.sqq[\"\n+\"q]='';s.pt(v,'&amp;','sqp',0);s.pt(s.un,',','sqs',q);v='';for(x in s.sq\"\n+\"u)s.sqq[s.squ[x]]+=(s.sqq[s.squ[x]]?',':'')+x;for(x in s.sqq)if(x&amp;&amp;\"\n+\"s.sqq[x]&amp;&amp;(x==q||c=0)&amp;&amp;oc.indexOf\"\n+\"(\\\".tl(\\\")3&amp;&amp;(!s.isie||!s.ismac||s.apv&gt;=5)){if(s.b&amp;&amp;s.b\"\n+\".attachEvent)s.b.attachEvent('onclick',s.bc);else if(s.b&amp;&amp;s.b.addEv\"\n+\"entListener)s.b.addEventListener('click',s.bc,false);else s.eh(s.wd\"\n+\",'onload',0,s.wdl)}};s.vs=function(x){var s=this,v=s.visitorSamplin\"\n+\"g,g=s.visitorSamplingGroup,k='s_vsn_'+s.un+(g?'_'+g:''),n=s.c_r(k),\"\n+\"e=new Date,y=e.getYear();e.setYear(y+10+(yv)return 0}retur\"\n+\"n 1};s.dyasmf=function(t,m){if(t&amp;&amp;m&amp;&amp;m.indexOf(t)&gt;=0)return 1;retur\"\n+\"n 0};s.dyasf=function(t,m){var s=this,i=t?t.indexOf('='):-1,n,x;if(\"\n+\"i&gt;=0&amp;&amp;m){var n=t.substring(0,i),x=t.substring(i+1);if(s.pt(x,',','d\"\n+\"yasmf',m))return n}return 0};s.uns=function(){var s=this,x=s.dynami\"\n+\"cAccountSelection,l=s.dynamicAccountList,m=s.dynamicAccountMatch,n,\"\n+\"i;s.un.toLowerCase();if(x&amp;&amp;l){if(!m)m=s.wd.location.host;if(!m.toLo\"\n+\"werCase)m=''+m;l=l.toLowerCase();m=m.toLowerCase();n=s.pt(l,';','dy\"\n+\"asf',m);if(n)s.un=n}i=s.un.indexOf(',');s.fun=i=4)x=screen.\"\n+\"width+'x'+screen.height;if(s.isns||s.isopera){if(s.apv&gt;=3){j='1.1';\"\n+\"v=s.n.javaEnabled()?'Y':'N';if(s.apv&gt;=4){j='1.2';c=screen.pixelDept\"\n+\"h;bw=s.wd.innerWidth;bh=s.wd.innerHeight;if(s.apv&gt;=4.06)j='1.3'}}s.\"\n+\"pl=s.n.plugins}else if(s.isie){if(s.apv&gt;=4){v=s.n.javaEnabled()?'Y'\"\n+\":'N';j='1.2';c=screen.colorDepth;if(s.apv&gt;=5){bw=s.d.documentElemen\"\n+\"t.offsetWidth;bh=s.d.documentElement.offsetHeight;j='1.3';if(!s.ism\"\n+\"ac&amp;&amp;s.b){s.b.addBehavior('#default#homePage');hp=s.b.isHomePage(tl)\"\n+\"?\\\"Y\\\":\\\"N\\\";s.b.addBehavior('#default#clientCaps');ct=s.b.connecti\"\n+\"onType}}}else r=''}if(s.pl)while(pn=0&amp;&amp;oc.indexOf(\\\".s_\"\n+\"oc(\\\")=0)return ''}ta=o.target;h=o.href?o\"\n+\".href:'';i=h.indexOf('?');h=s.linkLeaveQueryString||i=0);s.d=document;s.b=s.d.body;s.n=navigator;s.u=s.n.userAg\"\n+\"ent;s.ns6=s.u.indexOf('Netscape6/');var apn=s.n.appName,v=s.n.appVe\"\n+\"rsion,ie=v.indexOf('MSIE '),i;if(v.indexOf('Opera')&gt;=0||s.u.indexOf\"\n+\"('Opera')&gt;=0)apn='Opera';s.isie=(apn=='Microsoft Internet Explorer'\"\n+\");s.isns=(apn=='Netscape');s.isopera=(apn=='Opera');s.ismac=(s.u.in\"\n+\"dexOf('Mac')&gt;=0);if(ie&gt;0){s.apv=parseInt(i=v.substring(ie+5));if(s.\"\n+\"apv&gt;3)s.apv=parseFloat(i)}else if(s.ns6&gt;0)s.apv=parseFloat(s.u.subs\"\n+\"tring(s.ns6+10));else s.apv=parseFloat(v);s.em=0;if(String.fromChar\"\n+\"Code){i=escape(String.fromCharCode(256)).toUpperCase();s.em=(i=='%C\"\n+\"4%80'?2:(i=='%U0100'?1:0))}s.un=un;s.uns();s.vl_l='charSet,visitorN\"\n+\"amespace,cookieDomainPeriods,cookieLifetime,visitVariableProvider,p\"\n+\"ageName,pageURL,referrer,currencyCode,purchaseID';s.vl_t=s.vl_l+',c\"\n+\"hannel,server,pageType,campaign,state,zip,events,products,linkName,\"\n+\"linkType';for(var n=1;n0){a=parseInt(i=v.substring(e\n+5));if(a&gt;3)a=parseFloat(i)}else if(m&gt;0)a=parseFloat(u.substring(m+10)\n);else a=parseFloat(v);if(a&gt;=5&amp;&amp;v.indexOf('Opera')Return to mobile site\nif(typeof(iPhone) != \"undefined\" &amp;&amp; iPhone &gt; 0 &amp;&amp; document.getElementById('mobileLinkBanner')){document.getElementById('mobileLinkBanner').style.display='block';}-1) document.write('');document.write('');}\n// --&gt;#searchInput { position: relative; }#playerSearchAutoCompleteHeader { width: 240px; position: absolute; }.yui-skin-sam .yui-ac-content li.yui-ac-highlight { background:#CAE4FA; color:#000;}--&gt;if( !Fantasy ) {var Fantasy = {};}var autoCompleteInfoHeader = { initalQueryLength : -1,searchSize: 0,inputTagId : \"searchInput\",inputTagName : \"last_name\",divTagId : \"playerSearchAutoCompleteHeader\",setPlayerSearchActivity :function (searchState) {// If it is rendered/has loadedif( Fantasy.PlayerSearchHeader &amp;&amp; Fantasy.PlayerSearchHeader.oAutoComp ) {if( searchState == 'on' ) {Fantasy.PlayerSearchHeader.oAutoComp.minQueryLength = 1;}// Setting to a negative value effectively turns off auto completeelse {Fantasy.PlayerSearchHeader.oAutoComp.minQueryLength = -1;}}},formatResult :function(oResultItem, sQuery) {var name = oResultItem[1].LastnameFirst.substring(0,17);var linkEvent = \"'window.location=\\\"http://www.cbssports.com\"+oResultItem[1].PageURI+\"\\\";'\";var playerDivs = \"\"playerDivs += name + \"\";playerDivs += \"\";playerDivs += oResultItem[1].Position + \"\";playerDivs += \"\"playerDivs += oResultItem[1].Team + \"\";return playerDivs;}};&amp;nbsp;Web&amp;nbsp;&amp;nbsp;CBSSports.com&amp;nbsp;&amp;nbsp;Player&amp;nbsp;--&gt;\n&amp;nbsp;&amp;nbsp;&amp;nbsp;CBSi.namespace('widget.PlayerAutoComplete');(function(){var containerTag;CBSi.widget.PlayerAutoComplete=function(autoInfo,cTag){containerTag=cTag;this.oACDS=new YAHOO.widget.DS_XHR(\"/data/player/search\",[\"ResultSet.Results\",\"LastnameFirst\"]);this.oACDS.queryMatchContains=true;this.oACDS.scriptQueryParam=autoInfo.inputTagName||'last_name';this.oACDS.scriptQueryAppend=\"as=json\";this.oACDS.responseType=YAHOO.widget.DS_XHR.TYPE_JSON;this.oAutoComp=new YAHOO.widget.AutoComplete(autoInfo.inputTagId,autoInfo.divTagId,this.oACDS);this.oAutoComp.itemSelectEvent.subscribe(this.triggerFunction);this.oAutoComp.useShadow=true;this.oAutoComp.autoHighlight=false;this.oAutoComp.animSpeed=0;this.oAutoComp.minQueryLength=autoInfo.initalQueryLength||1;this.oAutoComp.maxResultsDisplayed=autoInfo.searchSize;this.oAutoComp.formatResult=autoInfo.formatResult;this.oAutoComp.doBeforeExpandContainer=function(oTextbox,oContainer,sQuery,aResults){var pos=YAHOO.util.Dom.getXY(oTextbox);pos[1]+=YAHOO.util.Dom.get(oTextbox).offsetHeight+2;YAHOO.util.Dom.setXY(oContainer,pos);return true}};CBSi.widget.PlayerAutoComplete.prototype.triggerFunction=function(sType,aArgs){window.location=aArgs[1].getElementsByTagName(containerTag)[0].getAttribute(\"title\")}})();--&gt;&amp;nbsp;Track your favorite teams and players.Free membership, Register NowAlready a member, Log InLog-in ID:Password:Forgot your Log-in ID? | Forgot your Password?&amp;nbsp;Community Newsletters | HelpCBSi.namespace('gn');\n(function() {CBSi.gn.show = function () {return;}CBSi.gn.hide = function() {return;}\n}\n)();&amp;nbsp;&amp;nbsp;NFL Home&amp;nbsp;Scoreboard&amp;nbsp;Standings&amp;nbsp;Schedules&amp;nbsp;Stats&amp;nbsp;Teams&amp;nbsp;Players&amp;nbsp;Transactions&amp;nbsp;Injuries&amp;nbsp;Fantasy News&amp;nbsp;Message&amp;nbsp;Board&amp;nbsp;NFL&amp;nbsp;Draft&amp;nbsp;Tickets&amp;nbsp;&amp;nbsp;&amp;nbsp;MLB Home&amp;nbsp;Scoreboard&amp;nbsp;Standings&amp;nbsp;Schedules&amp;nbsp;Stats&amp;nbsp;Teams&amp;nbsp;Players&amp;nbsp;Transactions&amp;nbsp;Injuries&amp;nbsp;Fantasy News&amp;nbsp;Message&amp;nbsp;Board&amp;nbsp;Tickets&amp;nbsp;&amp;nbsp;&amp;nbsp;NBA Home&amp;nbsp;Scoreboard&amp;nbsp;Standings&amp;nbsp;Schedules&amp;nbsp;Stats&amp;nbsp;Teams&amp;nbsp;Players&amp;nbsp;Transactions&amp;nbsp;Injuries&amp;nbsp;Fantasy News&amp;nbsp;Message&amp;nbsp;Board&amp;nbsp;Tickets&amp;nbsp;&amp;nbsp;&amp;nbsp;NHL Home&amp;nbsp;Scoreboard&amp;nbsp;Standings&amp;nbsp;Schedules&amp;nbsp;Stats&amp;nbsp;Teams&amp;nbsp;Players&amp;nbsp;Transactions&amp;nbsp;Injuries&amp;nbsp;Fantasy News&amp;nbsp;Message&amp;nbsp;Board&amp;nbsp;Tickets&amp;nbsp;&amp;nbsp;&amp;nbsp;Coll FB Home&amp;nbsp;Scoreboard&amp;nbsp;Standings&amp;nbsp;Schedules&amp;nbsp;Stats&amp;nbsp;Teams&amp;nbsp;Players&amp;nbsp;Polls&amp;nbsp;Message&amp;nbsp;Board&amp;nbsp;Recruiting&amp;nbsp;Tickets&amp;nbsp;Watch Now&amp;nbsp;&amp;nbsp;&amp;nbsp;Coll BK Home&amp;nbsp;Scoreboard&amp;nbsp;Standings&amp;nbsp;Schedules&amp;nbsp;Stats&amp;nbsp;Teams&amp;nbsp;Players&amp;nbsp;Polls&amp;nbsp;Brackets&amp;nbsp;Video&amp;nbsp;Women&amp;nbsp;Message Board&amp;nbsp;Tickets&amp;nbsp;Regions&amp;nbsp;MMOD&amp;nbsp;&amp;nbsp;&amp;nbsp;Golf Home&amp;nbsp;Leaderboard&amp;nbsp;Schedules&amp;nbsp;Players&amp;nbsp;Stats&amp;nbsp;Play Golf&amp;nbsp;Message&amp;nbsp;Board&amp;nbsp;Tickets&amp;nbsp;Masters Live&amp;nbsp;&amp;nbsp;&amp;nbsp;Racing Home&amp;nbsp;Sprint Cup&amp;nbsp;Nationwide&amp;nbsp;Trucks&amp;nbsp;IndyCar&amp;nbsp;Formula 1&amp;nbsp;NHRA&amp;nbsp;ALMS&amp;nbsp;Grand Am&amp;nbsp;Teams&amp;nbsp;Tracks&amp;nbsp;Message&amp;nbsp;Board&amp;nbsp;Tickets&amp;nbsp;&amp;nbsp;&amp;nbsp;Tennis Home&amp;nbsp;Scoreboard&amp;nbsp;Rankings&amp;nbsp;Schedules&amp;nbsp;Players&amp;nbsp;Message&amp;nbsp;Board&amp;nbsp;Tickets&amp;nbsp;&amp;nbsp;&amp;nbsp;Horses Home&amp;nbsp;Live Racing&amp;nbsp;Youbet Update&amp;nbsp;Carryovers&amp;nbsp;Free Selections&amp;nbsp;Contests&amp;nbsp;U. of BET&amp;nbsp;Message&amp;nbsp;Board&amp;nbsp;&amp;nbsp;&amp;nbsp;Soccer Home&amp;nbsp;Scoreboard&amp;nbsp;Standings&amp;nbsp;Schedules&amp;nbsp;Stats&amp;nbsp;Teams&amp;nbsp;Tickets&amp;nbsp;&amp;nbsp;&amp;nbsp;Cycling Home&amp;nbsp;Results&amp;nbsp;Standings&amp;nbsp;Stages&amp;nbsp;Teams&amp;nbsp;Riders&amp;nbsp;Message&amp;nbsp;Board&amp;nbsp;&amp;nbsp;&amp;nbsp;Boxing Home&amp;nbsp;Results&amp;nbsp;Schedule&amp;nbsp;Rankings&amp;nbsp;History&amp;nbsp;Message&amp;nbsp;Board&amp;nbsp;Tickets&amp;nbsp;&amp;nbsp;&amp;nbsp;MMA Home&amp;nbsp;Results&amp;nbsp;Schedule&amp;nbsp;History&amp;nbsp;Message&amp;nbsp;Board&amp;nbsp;Tickets&amp;nbsp;&amp;nbsp;&amp;nbsp;SPiN Home&amp;nbsp;&amp;nbsp;&amp;nbsp;WNBA Home&amp;nbsp;Scoreboard&amp;nbsp;Standings&amp;nbsp;Stats&amp;nbsp;Message&amp;nbsp;Board&amp;nbsp;Tickets&amp;nbsp;&amp;nbsp;&amp;nbsp;W&amp;nbsp;College&amp;nbsp;BK&amp;nbsp;Home&amp;nbsp;Scoreboard&amp;nbsp;Standings&amp;nbsp;Schedules&amp;nbsp;Teams&amp;nbsp;Tickets&amp;nbsp;&amp;nbsp;&amp;nbsp;Auto Racing&amp;nbsp;Boxing&amp;nbsp;College Baseball&amp;nbsp;College Hockey&amp;nbsp;Horse Racing&amp;nbsp;MMA&amp;nbsp;NFL Draft&amp;nbsp;Olympics&amp;nbsp;Poker&amp;nbsp;Soccer&amp;nbsp;Tennis&amp;nbsp;Tour de France&amp;nbsp;WNBA&amp;nbsp;Women's Coll BK&amp;nbsp;World Sports&amp;nbsp;&amp;nbsp;CBS College Sports&amp;nbsp;CBS Sports TV&amp;nbsp;The Alt Games&amp;nbsp;Columnists&amp;nbsp;Contests&amp;nbsp;Fantasy FB Today&amp;nbsp;Fantasy News&amp;nbsp;Message&amp;nbsp;Board&amp;nbsp;SPiN&amp;nbsp;Video&amp;nbsp;Watch Live College&amp;nbsp;Sports&amp;nbsp;School Sites&amp;nbsp;&amp;nbsp;Site Index&amp;nbsp;&amp;nbsp;&amp;nbsp;Find your School&amp;nbsp;National Signing Day&amp;nbsp;Basketball Scores&amp;nbsp;Basketball Rankings&amp;nbsp;Basketball Scoring &amp;nbsp; Leaders&amp;nbsp;MaxPreps High &amp;nbsp; School Sports&amp;nbsp;MaxPreps TV&amp;nbsp;&amp;nbsp;&amp;nbsp;Featured&amp;nbsp;Application&amp;nbsp;Mobile Web&amp;nbsp;Alerts&amp;nbsp;Applications&amp;nbsp;Video&amp;nbsp;&amp;nbsp;&amp;nbsp;Home&amp;nbsp;NFL&amp;nbsp;NCAA&amp;nbsp;MLB&amp;nbsp;NBA&amp;nbsp;NHL&amp;nbsp;Fantasy&amp;nbsp;DVD Store&amp;nbsp;Auctions&amp;nbsp;&amp;nbsp;Home&amp;nbsp;Fantasy&amp;nbsp;&amp;nbsp;NFL&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;MLB&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;NBA&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;NHL&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;College&amp;nbsp;FB&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;College&amp;nbsp;BK&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Golf&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Racing&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Tennis&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Horses&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Boxing&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;MMA&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;SPiN&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Soccer&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Cycling&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;AFL&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;W&amp;nbsp;College&amp;nbsp;BK&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;College&amp;nbsp;BB&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;College&amp;nbsp;HK&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;WNBA&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Olympics&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Poker&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;World&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;TV&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;MoreCBS College| MaxPreps| Mobile| Shop&amp;nbsp;var npt; var res; var patt; var fda = 0; var arena_stats_json = readCookie('arena_stats');\nif(arena_stats_json) {patt = /\"top\\d\":\"autoracing\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_autoracing\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"tennis\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_tennis\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"horseracing\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_horseracing\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"boxing\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_boxing\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"mma\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_mma\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"spin\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_spin\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"soccer\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_soccer\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"cycling\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_cycling\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"arenafootball\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_arenafootball\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"ncaawbasketball\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_ncaawbasketball\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"collegebaseball\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_collegebaseball\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"collegehockey\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_collegehockey\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"wnba\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_wnba\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"olympics\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_olympics\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"poker\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_poker\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"worldsports\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_worldsports\");if(npt){ npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"cbssports\"/; res = arena_stats_json.match(patt); if(res != null) { npt = getEl(\"gn_div_cbssports\");if(npt){ npt.style.display=\"\"; fda++}}}Golf Home&amp;nbsp;|&amp;nbsp;Leaderboard&amp;nbsp;|&amp;nbsp;Schedules&amp;nbsp;|&amp;nbsp;Players&amp;nbsp;|&amp;nbsp;Stats&amp;nbsp;|&amp;nbsp;Play Golf&amp;nbsp;|&amp;nbsp;Video&amp;nbsp;|&amp;nbsp;Masters Live.crelatedhdl, .crelatedhdl TD {font-size: 13px; font-family: verdana, arial, helvetica, sans-serif; color: #17275A; font-weight: bold;}\n.cnewshdl {font-size: 13px; font-family: verdana, arial, helvetica, sans-serif; font-weight: bold; color: #17275A; text-decoration: none;}\n.cadbg0 {background-color: #505050;}\n.cadbg1 {background-color: #ffffff;}&amp;nbsp;.storyHeader {position: relative; margin-left: 5px;}\n.storyInfo {padding: 5px;}\n.storyhdl {display: block; margin: 8px; padding: 0px;}Jacquelin and Khan head qualifying at 9-underMay 25, 2009&amp;nbsp;function shareLinks(){};shareLinks.prototype.allowClose = false;shareLinks.prototype.showButtons = function() {this.allowClose=false;document.getElementById('shareBoxi').style.visibility=\"visible\";}shareLinks.prototype.shareOff = function() {if (this.allowClose==true) {document.getElementById('shareBoxi').style.visibility=\"hidden\";}}shareLinks.prototype.hideButtons = function() {this.allowClose=true;setTimeout(\"shareLinks.prototype.shareOff()\",1000);}TADWORTH, England &amp;#040;AP&amp;#041; -Raphael Jacquelin and Simon Khan shot 9-under totals of 135 over 36 holes Monday to head final international qualifying for next month's U.S. Open at Bethpage.Peter Hanson grabbed the last of the 11 places available with a hole in one at the second extra hole.\"I was so pumped up that I switched from a 5-iron to a 6-iron,\" Hanson said.\"This game is just so stupid sometimes... Obviously I am delighted to get through, but to do it like that is unbelievable. We were between clubs on the tee but I thought that I would go for a full 6-iron and play for the middle of the green. You need a bit of luck with any hole in one and I got my share today.\"Jacquelin had 67-68 and Khan 68-67 over the Old and New Courses at Walton Heath, south of London. They finished a stroke clear of Simon Dyson, who added a 70 to his morning's-best 66 to finish at 8-under.Thomas Levet of France and Andrew McLardy were at 137 with European Tour rookie David Horsey a stroke back.Seventy-five players were competing for 11 places over two rounds on the two courses.There was further drama as seven players shot 139 and played off for five spots.Jose-Manuel Lara, Jean-Francois Lucquin, Johan Edfors and Francesco Molinari all birdied the first playoff hole, leaving Hanson, Richard Bland and Stephen Gallacher to battle on for the last spot.Hanson grabbed it with a hole in one on the second playoff hole, the 206-yard 17th on the Old Course which he aced with a 6-iron.This will be Jacquelin's first U.S.Open after he failed to qualify four times.\"I played fantastically today. I hope I can play the tournament the same way because I hit the ball very straight today and I am going to have to do that in America.\"I am delighted to be going - the Majors are the tournaments we all want to play in.\"Khan has been off his form this year and was restrained in his approach Monday.\"If you can make the birdies on the par fives and keep the mistakes off the card then you have a great chance and that's what I did well today,\" he said.Dyson said his morning 66 on the New Course \"could have been 59. I kind of had it on a string,\" he said. \"I was two under this afternoon but just played so much better than that,\" said Dyson, tied sixth in the 2007 U.S. PGA.Levet, who used to be based on the U.S. Tour, was eager to qualify.\"I want to play in the majors and not commentate on French TV like I did at the Masters. I feel that my game is good enough right now for me to belong in the majors.\"I knew that I could do it today if I kept calm,\" Levet said.Copyright 2009 by STATS LLC and The Associated Press. Any commercial use or\ndistribution without the express written consent of STATS LLC and The\nAssociated Press is strictly prohibited.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Headlines&amp;#183;&amp;nbsp;Right place, right time&amp;nbsp;\n&amp;#183;&amp;nbsp;UPDATED: Mon, May 25, 3:28 PMRaphael Jacquelin and Simon Khan shot 9-under totals of 135 over 36 holes Monday to head final international qualifying for next month\\'s U.S. Open at Bethpage.',0,event)\" onmouseout=\"javaScript:tooltipOff()\"&gt;11 Europeans qualify for U.S. Open; ace ends playoff&amp;nbsp;\n&amp;#183;&amp;nbsp;UPDATED: Mon, May 25, 8:03 AMRory Sabbatini won the Byron Nelson Championship on Sunday, finishing with a two-stroke victory over late-charging Brian Davis.',0,event)\" onmouseout=\"javaScript:tooltipOff()\"&gt;Sabbatini tops Davis at Nelson for first title since '07&amp;nbsp;\n&amp;#183;&amp;nbsp;UPDATED: Sun, May 24, 4:29 PMPaul Casey coolly birdied the last two holes to win the BMW PGA Championship by one stroke Sunday and rose to No. 3 in the world.',0,event)\" onmouseout=\"javaScript:tooltipOff()\"&gt;Birdies give Casey Euro PGA&amp;nbsp;| UPDATED: Sun, May 24, 2:26 PM John Daly wore bright pink trousers during Sunday\\'s final round of the BMW PGA Championship in a gesture of support for Phil Mickelson\\'s wife after she was diagnosed with breast cancer.',0,event)\" onmouseout=\"javaScript:tooltipOff()\"&gt;Pink Daly honors Amy28&amp;nbsp;\n&amp;#183;&amp;nbsp;UPDATED: Sun, May 24, 7:56 PMYani Tseng of South Korea won the LPGA Corning Classic on Sunday by one shot over Soo-Yun Kang and Paula Creamer.',0,event)\" onmouseout=\"javaScript:tooltipOff()\"&gt;Tseng edges Kang, charging Creamer to win Corning4&amp;nbsp;\n&amp;#183;&amp;nbsp;UPDATED: Fri, May 22, 8:48 PMPurdue\\'s Maria Hernandez shot a 1-under 71 on Friday for a one-stroke victory in the NCAA Division I Women\\'s Golf Championship, and Arizona State beat UCLA by eight shots for its seventh team title.',0,event)\" onmouseout=\"javaScript:tooltipOff()\"&gt;Purdue's Hernandez, Ariz. State win women's NCAAs\n&amp;nbsp;\n&amp;nbsp;\nMore Headlines | Columns | Newsletters | RSS&amp;nbsp;&amp;nbsp;-1) document.write('');document.write('');}\n// --&gt;&amp;nbsp;CBS Sports StoreGolf BagsCaddy, Cart, Travel and More Shop Now!&amp;nbsp;&amp;#149;&amp;nbsp;New Club Arrivals&amp;nbsp;&amp;#149;&amp;nbsp;Save on Fan Gear and more in the Outlet&amp;nbsp;&amp;#149;&amp;nbsp;Left Handed ShopShop Now&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;= 0 || this.server_name.indexOf('qa') &gt;=0 ) ? 'on' : 'off';// Sets Arena, Feature &amp; Site from vTag Passed from Request Environmentfor( j=0; j &amp;nbsp;ADS BY GOOGLE&amp;nbsp;';output += '' ;for(i = 0; i ';output += '';output += '' +google_ads[i].line1+ '' ;output += google_ads[i].line2 + \" \" + google_ads[i].line3 + '' ;output += '' +google_ads[i].visible_url +'';output += '' ;}output += \"\" ;// Debug Linesif( '' == '16385' ){output += 'ChannelID:'+ contextual.channelID +'&amp;nbsp;&amp;nbsp; Project:'+ contextual.project;if(contextual.site)output += '&amp;nbsp;&amp;nbsp; Site:'+ contextual.site ;if(contextual.google_kw)output += '&amp;nbsp;&amp;nbsp; Key:'+ contextual.google_kw ;if(contextual.test == 'on')output += '&amp;nbsp;&amp;nbsp; Test Mode On';output += '' ;}if( google_ads.length &gt;= 1 ){document.write( output );if( '' != 'false' ) document.write( '&amp;nbsp;' );}}//New contextualAdObj Objectif( ! contextual ) var contextual = new contextualAdObj( 'golf/media/stories;arena=golf;site=media;feat=stories;type=psa;user=Anonymous' );//Loads google required variablesgoogle_ad_client= contextual.clientID;//'ca-sportsline_js';google_ad_output= 'js';google_max_num_ads= 3;google_ad_type= 'text';google_ad_channel= contextual.channelID;google_safe= 'high';google_adtest= contextual.test;google_feedback= 'off';google_hints= contextual.hints;google_kw= contextual.google_kw;google_kw_type= contextual.google_kw_type;//Determines wheather or not to call Google Js File which returns Contextual Ad Object and calls `function google_ad_request_done`if (!switchCont) {var switchCont='on';}if(( contextual.display != 'none' ) &amp;&amp; ( switchCont != 'off' ) &amp;&amp; ( contextual.googleRequest != true )){contextual.googleRequest = true;document.write( '' );}else{contextual.googleRequest = false;}// --&gt;&amp;nbsp;CBSSports.comSPiN\nCBS Sports TV\nVideo\nCommunity\nMobile\nTV Listings\nWeather\nShopCBS Sports DVD StoreCBS Sports Auctions\nRingtones/Wallpapers\nTickets\nMy Profile\nMy ScoresBleacher Report\nWestwood OneHelpful LinksCBS Eye-lert\nCBS Cares\nHelp&amp;nbsp;document.write(\"Visit other CBS Interactive SitesSelect SiteBNETCBS CaresCBS College SportsCBS RadioCBS.comCBSNews.comCBSSports.comCHOWCNETCNET Content SolutionsGameSpotInternationalLast.fmMaxPrepsMetacritic.comMoneywatchMP3.commySimonNCAASearch.comShopper.comShowtimeTechRepublicThe InsiderTV.comUrbanBaby.comZDNet\");BNET | CBS Cares | CBS College Sports | CBS Radio | CBS.com | CBSNews.com | CBSSports.com | CHOW | CNET | CNET Content Solutions | GameSpot | International | Last.fm | MaxPreps | Metacritic.com | Moneywatch | MP3.com | mySimon | NCAA | Search.com | Shopper.com | Showtime | TechRepublic | The Insider | TV.com | UrbanBaby.com | ZDNet\nPopular on CBS sites: iPhone 3G | Fantasy Football | Moneywatch | Antivirus Software | Recipes | Spore\n&amp;nbsp;About CBSSports.com | Advertise | User Feedback | Site Map\n&amp;nbsp;&amp;copy; 2009 CBS Interactive. All rights reserved. | Privacy Policy | Terms of Use | Mobile User Agreement\n&amp;nbsp;CBS Sports is a registered trademark of CBS Broadcasting Inc. SportsLine is a registered service mark of SportsLine.com, Inc.var ahY=0;\nvar hdrPosition=whereami('hdrIMG');\nahY=parseInt(hdrPosition[1]);\nvar ahX = 2; // show header x times\nvar ahName = \"media-golf-stories\";var showHdr=mTrack(ahName,ahX);DW.pageParams = {siteId: '175'};DW.clear();<\/Body><\/Document>",
+            "docTitle": "",
+            "docDate": "2009-05-25 00:00:00",
+            "externalMetadata": "",
+            "calaisRequestID": "db486eb5-8406-4a75-8ffc-a579869ac5bb",
+            "docRDFaccessible": "true",
+            "id": "http://id.opencalais.com/64EuA5*c6A1Nz9rEMoUuvg"
+        },
+        "meta": {
+            "submitterCode": "5a140ccd-c273-c721-f54e-1c6ed4686d9e",
+            "signature": "digestalg-1|39Kde23R5kZzk70oigNJdDVvVxg=|dxZ+GBQzaWBU3CunLTFYV4HaAvkn0RalKQV+H7vZfcpmtzxPTEO8rg==",
+            "contentType": "text/txt",
+            "emVer": "UserVocabulariesIM",
+            "langIdVer": "DefaultLangId",
+            "language": "English",
+            "processingVer": "CalaisJob01",
+            "submissionDate": "2009-05-25 16:21:21.513",
+            "messages": []
+        }
+    },
+    "http://d.opencalais.com/dochash-1/9b39c50b-886a-3f8a-8297-5ed6327ad192/cat/1": {
+        "_typeGroup": "topics",
+        "category": "http://d.opencalais.com/cat/Calais/HealthMedicalPharma",
+        "classifierName": "Calais",
+        "categoryName": "Health_Medical_Pharma",
+        "score": 0.689
+    },
+    "http://d.opencalais.com/pershash-1/33a077e6-6d14-302b-9851-ae9ae7dce551": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Simon Dyson",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[ south of London. They finished a stroke clear of ]Simon Dyson[, who added a 70 to his morning's-best 66 to]",
+            "prefix": " south of London. They finished a stroke clear of ",
+            "exact": "Simon Dyson",
+            "suffix": ", who added a 70 to his morning's-best 66 to",
+            "offset": 28886,
+            "length": 11
+        },
+        {
+            "detection": "[ a stroke clear of Simon Dyson, who added a 70 to ]his[ morning's-best 66 to finish at 8-under.Thomas]",
+            "prefix": " a stroke clear of Simon Dyson, who added a 70 to ",
+            "exact": "his",
+            "suffix": " morning's-best 66 to finish at 8-under.Thomas",
+            "offset": 28917,
+            "length": 3
+        },
+        {
+            "detection": "[and that's what I did well today,\" he said.]Dyson[ said his morning 66 on the New Course \"could]",
+            "prefix": "and that's what I did well today,\" he said.",
+            "exact": "Dyson",
+            "suffix": " said his morning 66 on the New Course \"could",
+            "offset": 30117,
+            "length": 5
+        },
+        {
+            "detection": "[what I did well today,\" he said.Dyson said ]his[ morning 66 on the New Course \"could have been]",
+            "prefix": "what I did well today,\" he said.Dyson said ",
+            "exact": "his",
+            "suffix": " morning 66 on the New Course \"could have been",
+            "offset": 30128,
+            "length": 3
+        },
+        {
+            "detection": "[have been 59. I kind of had it on a string,\" ]he[ said. \"I was two under this afternoon but just]",
+            "prefix": "have been 59. I kind of had it on a string,\" ",
+            "exact": "he",
+            "suffix": " said. \"I was two under this afternoon but just",
+            "offset": 30213,
+            "length": 2
+        },
+        {
+            "detection": "[but just played so much better than that,\" said ]Dyson[, tied sixth in the 2007 U.S. PGA.Levet, who used]",
+            "prefix": "but just played so much better than that,\" said ",
+            "exact": "Dyson",
+            "suffix": ", tied sixth in the 2007 U.S. PGA.Levet, who used",
+            "offset": 30302,
+            "length": 5
+        }],
+        "relevance": 0.248,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/22b7ced9-f8a7-328d-b061-241cb9bc908a": {
+        "_type": "Continent",
+        "_typeGroup": "entities",
+        "name": "America",
+        "instances": [{
+            "detection": "[today and I am going to have to do that in ]America[.\"I am delighted to be going - the Majors are the]",
+            "prefix": "today and I am going to have to do that in ",
+            "exact": "America",
+            "suffix": ".\"I am delighted to be going - the Majors are the",
+            "offset": 29792,
+            "length": 7
+        }],
+        "relevance": 0.084,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/comphash-1/7b5d9963-080e-389e-8ad6-279424871c13": {
+        "_type": "Company",
+        "_typeGroup": "entities",
+        "name": "CBS",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[ Coll BK&nbsp;World Sports&nbsp;&nbsp;]CBS[ College Sports&nbsp;CBS Sports]",
+            "prefix": " Coll BK&nbsp;World Sports&nbsp;&nbsp;",
+            "exact": "CBS",
+            "suffix": " College Sports&nbsp;CBS Sports",
+            "offset": 21992,
+            "length": 3
+        },
+        {
+            "detection": "[College Sports&nbsp;]CBS[ Sports TV&nbsp;The Alt]",
+            "prefix": "College Sports&nbsp;",
+            "exact": "CBS",
+            "suffix": " Sports TV&nbsp;The Alt",
+            "offset": 22020,
+            "length": 3
+        },
+        {
+            "detection": "[write('');document.write('');}\n// -->&nbsp;]CBS[ Sports StoreGolf BagsCaddy, Cart, Travel and]",
+            "prefix": "write('');document.write('');}\n// -->&nbsp;",
+            "exact": "CBS",
+            "suffix": " Sports StoreGolf BagsCaddy, Cart, Travel and",
+            "offset": 32898,
+            "length": 3
+        },
+        {
+            "detection": "[= false;}// -->&nbsp;CBSSports.comSPiN\n]CBS[ Sports TV\nVideo\nCommunity\nMobile\nTV]",
+            "prefix": "= false;}// -->&nbsp;CBSSports.comSPiN\n",
+            "exact": "CBS",
+            "suffix": " Sports TV\nVideo\nCommunity\nMobile\nTV",
+            "offset": 35029,
+            "length": 3
+        },
+        {
+            "detection": "[Report\nWestwood OneHelpful LinksCBS Eye-lert\n]CBS[ Cares\nHelp&nbsp;document.write(\"Visit other]",
+            "prefix": "Report\nWestwood OneHelpful LinksCBS Eye-lert\n",
+            "exact": "CBS",
+            "suffix": " Cares\nHelp&nbsp;document.write(\"Visit other",
+            "offset": 35233,
+            "length": 3
+        },
+        {
+            "detection": "[Cares\nHelp&nbsp;document.write(\"Visit other ]CBS[ Interactive SitesSelect SiteBNETCBS CaresCBS]",
+            "prefix": "Cares\nHelp&nbsp;document.write(\"Visit other ",
+            "exact": "CBS",
+            "suffix": " Interactive SitesSelect SiteBNETCBS CaresCBS",
+            "offset": 35285,
+            "length": 3
+        },
+        {
+            "detection": "[InsiderTV.comUrbanBaby.comZDNet\");BNET | ]CBS[ Cares | CBS College Sports | CBS Radio | CBS.com]",
+            "prefix": "InsiderTV.comUrbanBaby.comZDNet\");BNET | ",
+            "exact": "CBS",
+            "suffix": " Cares | CBS College Sports | CBS Radio | CBS.com",
+            "offset": 35582,
+            "length": 3
+        },
+        {
+            "detection": "[iderTV.comUrbanBaby.comZDNet\");BNET | CBS Cares | ]CBS[ College Sports | CBS Radio | CBS.com |]",
+            "prefix": "iderTV.comUrbanBaby.comZDNet\");BNET | CBS Cares | ",
+            "exact": "CBS",
+            "suffix": " College Sports | CBS Radio | CBS.com |",
+            "offset": 35594,
+            "length": 3
+        },
+        {
+            "detection": "[| TV.com | UrbanBaby.com | ZDNet\nPopular on ]CBS[ sites: iPhone 3G | Fantasy Football | Moneywatch]",
+            "prefix": "| TV.com | UrbanBaby.com | ZDNet\nPopular on ",
+            "exact": "CBS",
+            "suffix": " sites: iPhone 3G | Fantasy Football | Moneywatch",
+            "offset": 35920,
+            "length": 3
+        },
+        {
+            "detection": "[Feedback | Site Map\n&nbsp;&copy; 2009 ]CBS[ Interactive. All rights reserved. | Privacy]",
+            "prefix": "Feedback | Site Map\n&nbsp;&copy; 2009 ",
+            "exact": "CBS",
+            "suffix": " Interactive. All rights reserved. | Privacy",
+            "offset": 36107,
+            "length": 3
+        },
+        {
+            "detection": "[ | Terms of Use | Mobile User Agreement\n&nbsp;]CBS[ Sports is a registered trademark of CBS]",
+            "prefix": " | Terms of Use | Mobile User Agreement\n&nbsp;",
+            "exact": "CBS",
+            "suffix": " Sports is a registered trademark of CBS",
+            "offset": 36211,
+            "length": 3
+        }],
+        "relevance": 0.403,
+        "resolutions": [{
+            "score": 1,
+            "name": "CBS Corporation",
+            "ticker": "CBS"
+        }]
+    },
+    "http://d.opencalais.com/genericHasher-1/c3760382-2150-32cb-97c7-40d654b9f34b": {
+        "_type": "Organization",
+        "_typeGroup": "entities",
+        "name": "UCLA",
+        "organizationtype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[Golf Championship, and Arizona State beat ]UCLA[ by eight shots for its seventh team]",
+            "prefix": "Golf Championship, and Arizona State beat ",
+            "exact": "UCLA",
+            "suffix": " by eight shots for its seventh team",
+            "offset": 32600,
+            "length": 4
+        }],
+        "relevance": 0.055,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/44087b6f-9255-34e5-9ca3-9fceb889591f": {
+        "_type": "Quotation",
+        "_typeGroup": "relations",
+        "person": "http://d.opencalais.com/pershash-1/33b52309-76a8-3fc7-a9e4-3b513cca4c42",
+        "quote": "I knew that I could do it today if I kept calm; Copyright 2009 by STATS LLC and The Associated Press. Any commercial use or\ndistribution without the express written consent of STATS LLC and The\nAssociated Press is strictly prohibited.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Headlines&#183;&nbsp;Right place, right time&nbsp;\n&#183;&nbsp;UPDATED: Mon, May 25, 3:28 PMRaphael Jacquelin and Simon Khan shot 9-under totals of 135 over 36 holes Monday to head final international qualifying for next month\\'s U.S. Open at Bethpage.',0,event",
+        "instances": [{
+            "detection": "[ enough right now for me to belong in the majors.\"]I knew that I could do it today if I kept calm,\" Levet said.Copyright 2009 by STATS LLC and The Associated Press. Any commercial use or\ndistribution without the express written consent of STATS LLC and The\nAssociated Press is strictly prohibited.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Headlines&#183;&nbsp;Right place, right time&nbsp;\n&#183;&nbsp;UPDATED: Mon, May 25, 3:28 PMRaphael Jacquelin and Simon Khan shot 9-under totals of 135 over 36 holes Monday to head final international qualifying for next month\\'s U.S. Open at Bethpage.',0,event)\"[ onmouseout=\"javaScript:tooltipOff()\">11]",
+            "prefix": " enough right now for me to belong in the majors.\"",
+            "exact": "I knew that I could do it today if I kept calm,\" Levet said.Copyright 2009 by STATS LLC and The Associated Press. Any commercial use or\ndistribution without the express written consent of STATS LLC and The\nAssociated Press is strictly prohibited.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Headlines&#183;&nbsp;Right place, right time&nbsp;\n&#183;&nbsp;UPDATED: Mon, May 25, 3:28 PMRaphael Jacquelin and Simon Khan shot 9-under totals of 135 over 36 holes Monday to head final international qualifying for next month\\'s U.S. Open at Bethpage.',0,event)\"",
+            "suffix": " onmouseout=\"javaScript:tooltipOff()\">11",
+            "offset": 30574,
+            "length": 579
+        }]
+    },
+    "http://d.opencalais.com/genericHasher-1/4a28bb64-6c02-32f2-98ea-5851f27aaced": {
+        "_type": "Position",
+        "_typeGroup": "entities",
+        "name": "vp ",
+        "instances": [{
+            "detection": "[ var random=abc.substring(2,abc.length);}var omni_]vp[;var switchDclk=\"on\";var switchOmni=\"on\";var]",
+            "prefix": " var random=abc.substring(2,abc.length);}var omni_",
+            "exact": "vp",
+            "suffix": ";var switchDclk=\"on\";var switchOmni=\"on\";var",
+            "offset": 1038,
+            "length": 2
+        }],
+        "relevance": 0.305,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/d173b833-49f3-37c9-964a-b5f73fbd2035": {
+        "_type": "SportsEvent",
+        "_typeGroup": "entities",
+        "name": "Tour de France",
+        "instances": [{
+            "detection": "[sp;Poker&nbsp;Soccer&nbsp;Tennis&nbsp;]Tour de France[&nbsp;WNBA&nbsp;Women's Coll]",
+            "prefix": "sp;Poker&nbsp;Soccer&nbsp;Tennis&nbsp;",
+            "exact": "Tour de France",
+            "suffix": "&nbsp;WNBA&nbsp;Women's Coll",
+            "offset": 21897,
+            "length": 14
+        }],
+        "relevance": 0.212,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/pershash-1/dd144c1b-1b7c-3251-99a3-53e1a8f08b54": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Johan Edfors",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[spots.Jose-Manuel Lara, Jean-Francois Lucquin, ]Johan Edfors[ and Francesco Molinari all birdied the first]",
+            "prefix": "spots.Jose-Manuel Lara, Jean-Francois Lucquin, ",
+            "exact": "Johan Edfors",
+            "suffix": " and Francesco Molinari all birdied the first",
+            "offset": 29273,
+            "length": 12
+        }],
+        "relevance": 0.09,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/pershash-1/76ed725f-6cdf-39eb-a847-efd638f13a37": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Jacquelin Khan",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[<Document><Date>2009-05-25<\/Date><Body>]Jacquelin[ and Khan head qualifying at 9-under - Golf -]",
+            "prefix": "<Document><Date>2009-05-25<\/Date><Body>",
+            "exact": "Jacquelin",
+            "suffix": " and Khan head qualifying at 9-under - Golf -",
+            "offset": 39,
+            "length": 9
+        },
+        {
+            "detection": "[{display: block; margin: 8px; padding: 0px;}]Jacquelin[ and Khan head qualifying at 9-underMay 25,]",
+            "prefix": "{display: block; margin: 8px; padding: 0px;}",
+            "exact": "Jacquelin",
+            "suffix": " and Khan head qualifying at 9-underMay 25,",
+            "offset": 27544,
+            "length": 9
+        },
+        {
+            "detection": "[England &#040;AP&#041; -Raphael ]Jacquelin[ and Simon Khan shot 9-under totals of 135 over]",
+            "prefix": "England &#040;AP&#041; -Raphael ",
+            "exact": "Jacquelin",
+            "suffix": " and Simon Khan shot 9-under totals of 135 over",
+            "offset": 28116,
+            "length": 9
+        },
+        {
+            "detection": "[with any hole in one and I got my share today.\"]Jacquelin[ had 67-68 and Khan 68-67 over the Old and New]",
+            "prefix": "with any hole in one and I got my share today.\"",
+            "exact": "Jacquelin",
+            "suffix": " had 67-68 and Khan 68-67 over the Old and New",
+            "offset": 28756,
+            "length": 9
+        },
+        {
+            "detection": "[Course which he aced with a 6-iron.This will be ]Jacquelin['s first U.S.Open after he failed to qualify four]",
+            "prefix": "Course which he aced with a 6-iron.This will be ",
+            "exact": "Jacquelin",
+            "suffix": "'s first U.S.Open after he failed to qualify four",
+            "offset": 29570,
+            "length": 9
+        }],
+        "relevance": 0.529,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/comphash-1/7f4c47fa-6938-3f19-886b-bec8d1bc6a2c": {
+        "_type": "Company",
+        "_typeGroup": "entities",
+        "name": "CBS Broadcasting Inc",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[Sports is a registered trademark of ]CBS Broadcasting Inc[. SportsLine is a registered service mark of]",
+            "prefix": "Sports is a registered trademark of ",
+            "exact": "CBS Broadcasting Inc",
+            "suffix": ". SportsLine is a registered service mark of",
+            "offset": 36251,
+            "length": 20
+        }],
+        "relevance": 0.041,
+        "resolutions": [{
+            "score": 1,
+            "name": "CBS Broadcasting Inc",
+            "ticker": "VIACBC"
+        }]
+    },
+    "http://d.opencalais.com/genericHasher-1/457a231b-e2aa-3e2a-80ec-4a715d3d2a99": {
+        "_type": "Quotation",
+        "_typeGroup": "relations",
+        "person": "http://d.opencalais.com/pershash-1/740e3b71-a459-3ab0-81fe-b6c143247d98",
+        "quote": "I was so pumped up that I switched from a 5-iron to a 6-iron",
+        "instances": [{
+            "detection": "[with a hole in one at the second extra hole.\"]I was so pumped up that I switched from a 5-iron to a 6-iron,\" Hanson said.\"[This game is just so stupid sometimes...]",
+            "prefix": "with a hole in one at the second extra hole.\"",
+            "exact": "I was so pumped up that I switched from a 5-iron to a 6-iron,\" Hanson said.\"",
+            "suffix": "This game is just so stupid sometimes...",
+            "offset": 28369,
+            "length": 76
+        }]
+    },
+    "http://d.opencalais.com/pershash-1/3d53d425-fed3-3b1a-b59f-5f906b3ebaf7": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Maria Hernandez",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[Fri, May 22, 8:48 PMPurdue\\'s ]Maria Hernandez[ shot a 1-under 71 on Friday for a one-stroke]",
+            "prefix": "Fri, May 22, 8:48 PMPurdue\\'s ",
+            "exact": "Maria Hernandez",
+            "suffix": " shot a 1-under 71 on Friday for a one-stroke",
+            "offset": 32457,
+            "length": 15
+        },
+        {
+            "detection": "[ onmouseout=\"javaScript:tooltipOff()\">Purdue's ]Hernandez[, Ariz. State win women's]",
+            "prefix": " onmouseout=\"javaScript:tooltipOff()\">Purdue's ",
+            "exact": "Hernandez",
+            "suffix": ", Ariz. State win women's",
+            "offset": 32708,
+            "length": 9
+        }],
+        "relevance": 0.056,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/22b0de39-e3ba-344c-96ef-434b738c18cf": {
+        "_type": "Product",
+        "_typeGroup": "entities",
+        "name": "Sports",
+        "producttype": "Other",
+        "instances": [{
+            "detection": "[of Use | Mobile User Agreement\n&nbsp;CBS ]Sports[ is a registered trademark of CBS Broadcasting]",
+            "prefix": "of Use | Mobile User Agreement\n&nbsp;CBS ",
+            "exact": "Sports",
+            "suffix": " is a registered trademark of CBS Broadcasting",
+            "offset": 36215,
+            "length": 6
+        }],
+        "relevance": 0.384,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/ab58bfcf-c05c-3164-94dd-b2fe5c5d8493": {
+        "_type": "Product",
+        "_typeGroup": "entities",
+        "name": "College Sports",
+        "producttype": "Other",
+        "instances": [{
+            "detection": "[BK&nbsp;World Sports&nbsp;&nbsp;CBS ]College Sports[&nbsp;CBS Sports TV&nbsp;The Alt]",
+            "prefix": "BK&nbsp;World Sports&nbsp;&nbsp;CBS ",
+            "exact": "College Sports",
+            "suffix": "&nbsp;CBS Sports TV&nbsp;The Alt",
+            "offset": 21996,
+            "length": 14
+        },
+        {
+            "detection": "[TV.comUrbanBaby.comZDNet\");BNET | CBS Cares | CBS ]College Sports[ | CBS Radio | CBS.com | CBSNews.com |]",
+            "prefix": "TV.comUrbanBaby.comZDNet\");BNET | CBS Cares | CBS ",
+            "exact": "College Sports",
+            "suffix": " | CBS Radio | CBS.com | CBSNews.com |",
+            "offset": 35598,
+            "length": 14
+        }],
+        "relevance": 0.372,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/8e65395a-486a-3434-bfa3-82911b33f550": {
+        "_type": "IndustryTerm",
+        "_typeGroup": "entities",
+        "name": "contextual.site",
+        "instances": [{
+            "detection": "[+= '&nbsp;&nbsp; Site:'+ ]contextual.site[ ;if(contextual.google_kw)output +=]",
+            "prefix": "+= '&nbsp;&nbsp; Site:'+ ",
+            "exact": "contextual.site",
+            "suffix": " ;if(contextual.google_kw)output +=",
+            "offset": 33764,
+            "length": 15
+        }],
+        "relevance": 0.05,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/4482430b-dd93-338c-a83b-283d67818aee": {
+        "_type": "Position",
+        "_typeGroup": "entities",
+        "name": "account manager ",
+        "instances": [{
+            "detection": "[only be made\nwhen instructed to do so by your ]account manager[.*/\ns.visitorNamespace=\"cbs\"/*********************]",
+            "prefix": "only be made\nwhen instructed to do so by your ",
+            "exact": "account manager",
+            "suffix": ".*/\ns.visitorNamespace=\"cbs\"/*********************",
+            "offset": 3395,
+            "length": 15
+        },
+        {
+            "detection": "[only be made\nwhen instructed to do so by your ]account manager[.*/\ns_v.visitorNamespace=\"cbs\"/* Plugin Config]",
+            "prefix": "only be made\nwhen instructed to do so by your ",
+            "exact": "account manager",
+            "suffix": ".*/\ns_v.visitorNamespace=\"cbs\"/* Plugin Config",
+            "offset": 4274,
+            "length": 15
+        }],
+        "relevance": 0.306,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/381fe4ef-ee24-3b22-bf42-55b49db44e09": {
+        "_type": "SportsEvent",
+        "_typeGroup": "entities",
+        "name": "PGA Championship",
+        "instances": [{
+            "detection": "[ coolly birdied the last two holes to win the BMW ]PGA Championship[ by one stroke Sunday and rose to No. 3 in the]",
+            "prefix": " coolly birdied the last two holes to win the BMW ",
+            "exact": "PGA Championship",
+            "suffix": " by one stroke Sunday and rose to No. 3 in the",
+            "offset": 31661,
+            "length": 16
+        },
+        {
+            "detection": "[ trousers during Sunday\\'s final round of the BMW ]PGA Championship[ in a gesture of support for Phil Mickelson\\'s]",
+            "prefix": " trousers during Sunday\\'s final round of the BMW ",
+            "exact": "PGA Championship",
+            "suffix": " in a gesture of support for Phil Mickelson\\'s",
+            "offset": 31927,
+            "length": 16
+        }],
+        "relevance": 0.062,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/785f473c-09a4-3c46-b004-ac9a2a99a768": {
+        "_type": "SportsEvent",
+        "_typeGroup": "entities",
+        "name": "Formula 1",
+        "instances": [{
+            "detection": "[ionwide&nbsp;Trucks&nbsp;IndyCar&nbsp;]Formula 1[&nbsp;NHRA&nbsp;ALMS&nbsp;Grand]",
+            "prefix": "ionwide&nbsp;Trucks&nbsp;IndyCar&nbsp;",
+            "exact": "Formula 1",
+            "suffix": "&nbsp;NHRA&nbsp;ALMS&nbsp;Grand",
+            "offset": 20216,
+            "length": 9
+        }],
+        "relevance": 0.226,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/pershash-1/fea31795-eb74-3ace-92fd-3908ada732ae": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Andrew McLardy",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[to finish at 8-under.Thomas Levet of France and ]Andrew McLardy[ were at 137 with European Tour rookie David]",
+            "prefix": "to finish at 8-under.Thomas Levet of France and ",
+            "exact": "Andrew McLardy",
+            "suffix": " were at 137 with European Tour rookie David",
+            "offset": 28987,
+            "length": 14
+        }],
+        "relevance": 0.094,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/pershash-1/23b216c7-52f4-307b-be97-2c9308885d6d": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Francesco Molinari",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[Lara, Jean-Francois Lucquin, Johan Edfors and ]Francesco Molinari[ all birdied the first playoff hole, leaving]",
+            "prefix": "Lara, Jean-Francois Lucquin, Johan Edfors and ",
+            "exact": "Francesco Molinari",
+            "suffix": " all birdied the first playoff hole, leaving",
+            "offset": 29290,
+            "length": 18
+        }],
+        "relevance": 0.09,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/72b5cf34-4b2b-3c48-9ca4-7f40aff74e6a": {
+        "_type": "URL",
+        "_typeGroup": "entities",
+        "name": "http://images.cbssports.com/images/golf/new",
+        "instances": [{
+            "detection": "[764px; height: 594px; background: #ffffff url(']http://images.cbssports.com/images/golf/new[/splashbg.jpg') no-repeat top right; margin: 0px]",
+            "prefix": "764px; height: 594px; background: #ffffff url('",
+            "exact": "http://images.cbssports.com/images/golf/new",
+            "suffix": "/splashbg.jpg') no-repeat top right; margin: 0px",
+            "offset": 647,
+            "length": 43
+        }],
+        "relevance": 0.306,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/5b816881-86ba-3900-8cfe-8ed2f5ceb1de": {
+        "_type": "SportsGame",
+        "_typeGroup": "entities",
+        "name": "cycling",
+        "instances": [{
+            "detection": "[npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"]cycling[\"/; res = arena_stats_json.match(patt); if(res !=]",
+            "prefix": "npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"",
+            "exact": "cycling",
+            "suffix": "\"/; res = arena_stats_json.match(patt); if(res !=",
+            "offset": 25294,
+            "length": 7
+        }],
+        "relevance": 0.157,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/comphash-1/8c4d575f-b864-3bdd-87e2-6096bf4e9e1f": {
+        "_type": "Company",
+        "_typeGroup": "entities",
+        "name": "STATS LLC",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[rd&nbsp;Standings&nbsp;Schedules&nbsp;]Stats[&nbsp;Teams&nbsp;Players&nbsp;Transact]",
+            "prefix": "rd&nbsp;Standings&nbsp;Schedules&nbsp;",
+            "exact": "Stats",
+            "suffix": "&nbsp;Teams&nbsp;Players&nbsp;Transact",
+            "offset": 18422,
+            "length": 5
+        },
+        {
+            "detection": "[rd&nbsp;Standings&nbsp;Schedules&nbsp;]Stats[&nbsp;Teams&nbsp;Players&nbsp;Transact]",
+            "prefix": "rd&nbsp;Standings&nbsp;Schedules&nbsp;",
+            "exact": "Stats",
+            "suffix": "&nbsp;Teams&nbsp;Players&nbsp;Transact",
+            "offset": 18704,
+            "length": 5
+        },
+        {
+            "detection": "[rd&nbsp;Standings&nbsp;Schedules&nbsp;]Stats[&nbsp;Teams&nbsp;Players&nbsp;Transact]",
+            "prefix": "rd&nbsp;Standings&nbsp;Schedules&nbsp;",
+            "exact": "Stats",
+            "suffix": "&nbsp;Teams&nbsp;Players&nbsp;Transact",
+            "offset": 18958,
+            "length": 5
+        },
+        {
+            "detection": "[rd&nbsp;Standings&nbsp;Schedules&nbsp;]Stats[&nbsp;Teams&nbsp;Players&nbsp;Transact]",
+            "prefix": "rd&nbsp;Standings&nbsp;Schedules&nbsp;",
+            "exact": "Stats",
+            "suffix": "&nbsp;Teams&nbsp;Players&nbsp;Transact",
+            "offset": 19212,
+            "length": 5
+        },
+        {
+            "detection": "[rd&nbsp;Standings&nbsp;Schedules&nbsp;]Stats[&nbsp;Teams&nbsp;Players&nbsp;Polls&am]",
+            "prefix": "rd&nbsp;Standings&nbsp;Schedules&nbsp;",
+            "exact": "Stats",
+            "suffix": "&nbsp;Teams&nbsp;Players&nbsp;Polls&am",
+            "offset": 19470,
+            "length": 5
+        },
+        {
+            "detection": "[rd&nbsp;Standings&nbsp;Schedules&nbsp;]Stats[&nbsp;Teams&nbsp;Players&nbsp;Polls&am]",
+            "prefix": "rd&nbsp;Standings&nbsp;Schedules&nbsp;",
+            "exact": "Stats",
+            "suffix": "&nbsp;Teams&nbsp;Players&nbsp;Polls&am",
+            "offset": 19720,
+            "length": 5
+        },
+        {
+            "detection": "[oard&nbsp;Schedules&nbsp;Players&nbsp;]Stats[&nbsp;Play Golf&nbsp;Message&nbsp;Boar]",
+            "prefix": "oard&nbsp;Schedules&nbsp;Players&nbsp;",
+            "exact": "Stats",
+            "suffix": "&nbsp;Play Golf&nbsp;Message&nbsp;Boar",
+            "offset": 19997,
+            "length": 5
+        },
+        {
+            "detection": "[rd&nbsp;Standings&nbsp;Schedules&nbsp;]Stats[&nbsp;Teams&nbsp;Tickets&nbsp;&nbs]",
+            "prefix": "rd&nbsp;Standings&nbsp;Schedules&nbsp;",
+            "exact": "Stats",
+            "suffix": "&nbsp;Teams&nbsp;Tickets&nbsp;&nbs",
+            "offset": 20823,
+            "length": 5
+        },
+        {
+            "detection": "[e&nbsp;Scoreboard&nbsp;Standings&nbsp;]Stats[&nbsp;Message&nbsp;Board&nbsp;Tickets&]",
+            "prefix": "e&nbsp;Scoreboard&nbsp;Standings&nbsp;",
+            "exact": "Stats",
+            "suffix": "&nbsp;Message&nbsp;Board&nbsp;Tickets&",
+            "offset": 21443,
+            "length": 5
+        },
+        {
+            "detection": "[s&nbsp;|&nbsp;Players&nbsp;|&nbsp;]Stats[&nbsp;|&nbsp;Play]",
+            "prefix": "s&nbsp;|&nbsp;Players&nbsp;|&nbsp;",
+            "exact": "Stats",
+            "suffix": "&nbsp;|&nbsp;Play",
+            "offset": 26958,
+            "length": 5
+        },
+        {
+            "detection": "[if I kept calm,\" Levet said.Copyright 2009 by ]STATS LLC[ and The Associated Press. Any commercial use]",
+            "prefix": "if I kept calm,\" Levet said.Copyright 2009 by ",
+            "exact": "STATS LLC",
+            "suffix": " and The Associated Press. Any commercial use",
+            "offset": 30652,
+            "length": 9
+        },
+        {
+            "detection": "[without the express written consent of ]STATS LLC[ and The\nAssociated Press is strictly]",
+            "prefix": "without the express written consent of ",
+            "exact": "STATS LLC",
+            "suffix": " and The\nAssociated Press is strictly",
+            "offset": 30762,
+            "length": 9
+        }],
+        "relevance": 0.486,
+        "resolutions": [{
+            "score": 1,
+            "name": "STATS LLC"
+        }]
+    },
+    "http://d.opencalais.com/genericHasher-1/f243aa67-85dd-36a2-83ba-9f45dc92ec21": {
+        "_type": "SportsEvent",
+        "_typeGroup": "entities",
+        "name": "LPGA Corning Classic",
+        "instances": [{
+            "detection": "[ May 24, 7:56 PMYani Tseng of South Korea won the ]LPGA Corning Classic[ on Sunday by one shot over Soo-Yun Kang and]",
+            "prefix": " May 24, 7:56 PMYani Tseng of South Korea won the ",
+            "exact": "LPGA Corning Classic",
+            "suffix": " on Sunday by one shot over Soo-Yun Kang and",
+            "offset": 32206,
+            "length": 20
+        }],
+        "relevance": 0.057,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/ad046774-8078-3b09-bcf3-0bc7019dfa21": {
+        "_type": "PublishedMedium",
+        "_typeGroup": "entities",
+        "name": "Now!",
+        "instances": [{
+            "detection": "[StoreGolf BagsCaddy, Cart, Travel and More Shop ]Now![&nbsp;&#149;&nbsp;New Club]",
+            "prefix": "StoreGolf BagsCaddy, Cart, Travel and More Shop ",
+            "exact": "Now!",
+            "suffix": "&nbsp;&#149;&nbsp;New Club",
+            "offset": 32957,
+            "length": 4
+        }],
+        "relevance": 0.053,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/a7b63392-6e09-3249-86f1-83ce0c7baf35": {
+        "_type": "SportsEvent",
+        "_typeGroup": "entities",
+        "name": "Olympics",
+        "instances": [{
+            "detection": "[Racing&nbsp;MMA&nbsp;NFL Draft&nbsp;]Olympics[&nbsp;Poker&nbsp;Soccer&nbsp;Tennis&am]",
+            "prefix": "Racing&nbsp;MMA&nbsp;NFL Draft&nbsp;",
+            "exact": "Olympics",
+            "suffix": "&nbsp;Poker&nbsp;Soccer&nbsp;Tennis&am",
+            "offset": 21832,
+            "length": 8
+        },
+        {
+            "detection": "[nbsp;WNBA&nbsp;&nbsp;|&nbsp;&nbsp;]Olympics[&nbsp;&nbsp;|&nbsp;&nbsp;Poker&amp]",
+            "prefix": "nbsp;WNBA&nbsp;&nbsp;|&nbsp;&nbsp;",
+            "exact": "Olympics",
+            "suffix": "&nbsp;&nbsp;|&nbsp;&nbsp;Poker&amp",
+            "offset": 23887,
+            "length": 8
+        }],
+        "relevance": 0.219,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/f1e845df-2321-3558-9848-9c6b2bc588fb": {
+        "_type": "SportsGame",
+        "_typeGroup": "entities",
+        "name": "Boxing",
+        "instances": [{
+            "detection": "[amp;nbsp;&nbsp;&nbsp;Auto Racing&nbsp;]Boxing[&nbsp;College Baseball&nbsp;College]",
+            "prefix": "amp;nbsp;&nbsp;&nbsp;Auto Racing&nbsp;",
+            "exact": "Boxing",
+            "suffix": "&nbsp;College Baseball&nbsp;College",
+            "offset": 21712,
+            "length": 6
+        },
+        {
+            "detection": "[npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"]boxing[\"/; res = arena_stats_json.match(patt); if(res !=]",
+            "prefix": "npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"",
+            "exact": "boxing",
+            "suffix": "\"/; res = arena_stats_json.match(patt); if(res !=",
+            "offset": 24712,
+            "length": 6
+        }],
+        "relevance": 0.232,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/pershash-1/a2520b00-deed-3baa-902d-3998258c7bda": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Soo-Yun Kang",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[LPGA Corning Classic on Sunday by one shot over ]Soo-Yun Kang[ and Paula Creamer.',0,event)\"]",
+            "prefix": "LPGA Corning Classic on Sunday by one shot over ",
+            "exact": "Soo-Yun Kang",
+            "suffix": " and Paula Creamer.',0,event)\"",
+            "offset": 32254,
+            "length": 12
+        },
+        {
+            "detection": "[mouseout=\"javaScript:tooltipOff()\">Tseng edges ]Kang[, charging Creamer to win]",
+            "prefix": "mouseout=\"javaScript:tooltipOff()\">Tseng edges ",
+            "exact": "Kang",
+            "suffix": ", charging Creamer to win",
+            "offset": 32349,
+            "length": 4
+        }],
+        "relevance": 0.06,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/pershash-1/480bd268-882a-309c-b09c-a8213a939559": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Simon Khan",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[cument><Date>2009-05-25<\/Date><Body>Jacquelin and ]Khan[ head qualifying at 9-under - Golf -]",
+            "prefix": "cument><Date>2009-05-25<\/Date><Body>Jacquelin and ",
+            "exact": "Khan",
+            "suffix": " head qualifying at 9-under - Golf -",
+            "offset": 53,
+            "length": 4
+        },
+        {
+            "detection": "[s.c_d};s.c_r=function(k){var s=t\"\n+\"]his[;k=s.ape(k);var c=' '+s.d.cookie,i=c.indexOf(']",
+            "prefix": "s.c_d};s.c_r=function(k){var s=t\"\n+\"",
+            "exact": "his",
+            "suffix": ";k=s.ape(k);var c=' '+s.d.cookie,i=c.indexOf('",
+            "offset": 7065,
+            "length": 3
+        },
+        {
+            "detection": "[;s.pt(v,',','glf',0)};s.gv=function(v){var s=t\"\n+\"]his[;return s['vpm_'+v]?s['vpv_'+v]:s[v]};s.havf=funct]",
+            "prefix": ";s.pt(v,',','glf',0)};s.gv=function(v){var s=t\"\n+\"",
+            "exact": "his",
+            "suffix": ";return s['vpm_'+v]?s['vpv_'+v]:s[v]};s.havf=funct",
+            "offset": 9018,
+            "length": 3
+        },
+        {
+            "detection": "[block; margin: 8px; padding: 0px;}Jacquelin and ]Khan[ head qualifying at 9-underMay 25,]",
+            "prefix": "block; margin: 8px; padding: 0px;}Jacquelin and ",
+            "exact": "Khan",
+            "suffix": " head qualifying at 9-underMay 25,",
+            "offset": 27558,
+            "length": 4
+        },
+        {
+            "detection": "[&#040;AP&#041; -Raphael Jacquelin and ]Simon Khan[ shot 9-under totals of 135 over 36 holes Monday]",
+            "prefix": "&#040;AP&#041; -Raphael Jacquelin and ",
+            "exact": "Simon Khan",
+            "suffix": " shot 9-under totals of 135 over 36 holes Monday",
+            "offset": 28130,
+            "length": 10
+        },
+        {
+            "detection": "[I got my share today.\"Jacquelin had 67-68 and ]Khan[ 68-67 over the Old and New Courses at Walton]",
+            "prefix": "I got my share today.\"Jacquelin had 67-68 and ",
+            "exact": "Khan",
+            "suffix": " 68-67 over the Old and New Courses at Walton",
+            "offset": 28780,
+            "length": 4
+        },
+        {
+            "detection": "[are the tournaments we all want to play in.\"]Khan[ has been off his form this year and was]",
+            "prefix": "are the tournaments we all want to play in.\"",
+            "exact": "Khan",
+            "suffix": " has been off his form this year and was",
+            "offset": 29885,
+            "length": 4
+        },
+        {
+            "detection": "[we all want to play in.\"Khan has been off ]his[ form this year and was restrained in his]",
+            "prefix": "we all want to play in.\"Khan has been off ",
+            "exact": "his",
+            "suffix": " form this year and was restrained in his",
+            "offset": 29903,
+            "length": 3
+        },
+        {
+            "detection": "[off his form this year and was restrained in ]his[ approach Monday.\"If you can make the birdies on]",
+            "prefix": "off his form this year and was restrained in ",
+            "exact": "his",
+            "suffix": " approach Monday.\"If you can make the birdies on",
+            "offset": 29944,
+            "length": 3
+        },
+        {
+            "detection": "[great chance and that's what I did well today,\" ]he[ said.Dyson said his morning 66 on the New Course]",
+            "prefix": "great chance and that's what I did well today,\" ",
+            "exact": "he",
+            "suffix": " said.Dyson said his morning 66 on the New Course",
+            "offset": 30109,
+            "length": 2
+        },
+        {
+            "detection": "[Mon, May 25, 3:28 PMRaphael Jacquelin and ]Simon Khan[ shot 9-under totals of 135 over 36 holes Monday]",
+            "prefix": "Mon, May 25, 3:28 PMRaphael Jacquelin and ",
+            "exact": "Simon Khan",
+            "suffix": " shot 9-under totals of 135 over 36 holes Monday",
+            "offset": 31004,
+            "length": 10
+        }],
+        "relevance": 0.6,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/0d40ba3e-9a97-30e1-9169-1e60575e5a97": {
+        "_type": "SportsLeague",
+        "_typeGroup": "entities",
+        "name": "NHL",
+        "instances": [{
+            "detection": "[&nbsp;NCAA&nbsp;MLB&nbsp;NBA&nbsp;]NHL[&nbsp;Fantasy&nbsp;DVD]",
+            "prefix": "&nbsp;NCAA&nbsp;MLB&nbsp;NBA&nbsp;",
+            "exact": "NHL",
+            "suffix": "&nbsp;Fantasy&nbsp;DVD",
+            "offset": 22776,
+            "length": 3
+        },
+        {
+            "detection": "[;nbsp;NBA&nbsp;&nbsp;|&nbsp;&nbsp;]NHL[&nbsp;&nbsp;|&nbsp;&nbsp;College&a]",
+            "prefix": ";nbsp;NBA&nbsp;&nbsp;|&nbsp;&nbsp;",
+            "exact": "NHL",
+            "suffix": "&nbsp;&nbsp;|&nbsp;&nbsp;College&a",
+            "offset": 23026,
+            "length": 3
+        }],
+        "relevance": 0.206,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/ed86f87b-66e4-32bc-9f7e-56d1b03a6adf": {
+        "_type": "SportsLeague",
+        "_typeGroup": "entities",
+        "name": "NBA",
+        "instances": [{
+            "detection": "[&nbsp;NFL&nbsp;NCAA&nbsp;MLB&nbsp;]NBA[&nbsp;NHL&nbsp;Fantasy&nbsp;DVD]",
+            "prefix": "&nbsp;NFL&nbsp;NCAA&nbsp;MLB&nbsp;",
+            "exact": "NBA",
+            "suffix": "&nbsp;NHL&nbsp;Fantasy&nbsp;DVD",
+            "offset": 22763,
+            "length": 3
+        },
+        {
+            "detection": "[;nbsp;MLB&nbsp;&nbsp;|&nbsp;&nbsp;]NBA[&nbsp;&nbsp;|&nbsp;&nbsp;NHL&n]",
+            "prefix": ";nbsp;MLB&nbsp;&nbsp;|&nbsp;&nbsp;",
+            "exact": "NBA",
+            "suffix": "&nbsp;&nbsp;|&nbsp;&nbsp;NHL&n",
+            "offset": 22982,
+            "length": 3
+        }],
+        "relevance": 0.204,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/comphash-1/c7172a98-4c8a-31a9-bfd4-ce426c8db3c0": {
+        "_type": "Company",
+        "_typeGroup": "entities",
+        "name": "GOOGLE",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[Request Environmentfor( j=0; j &nbsp;ADS BY ]GOOGLE[&nbsp;';output += '' ;for(i = 0; i ';output]",
+            "prefix": "Request Environmentfor( j=0; j &nbsp;ADS BY ",
+            "exact": "GOOGLE",
+            "suffix": "&nbsp;';output += '' ;for(i = 0; i ';output",
+            "offset": 33337,
+            "length": 6
+        },
+        {
+            "detection": "[wheather or not to call ]Google[ Js File which returns Contextual Ad Object and]",
+            "prefix": "wheather or not to call ",
+            "exact": "Google",
+            "suffix": " Js File which returns Contextual Ad Object and",
+            "offset": 34647,
+            "length": 6
+        }],
+        "relevance": 0.057,
+        "resolutions": [{
+            "score": 1,
+            "name": "Google Inc.",
+            "ticker": "GOOG"
+        }]
+    },
+    "http://d.opencalais.com/genericHasher-1/b3bb2944-4698-37db-9076-7b8609f3796a": {
+        "_type": "Technology",
+        "_typeGroup": "entities",
+        "name": "ssl",
+        "instances": [{
+            "detection": "[fun,'_','-'),imn='s_i_'+s.fun,im,b,e,rs='http'+(s.]ssl[?'s':\"\n+\"'')+'://'+(ns?ns:(s.ssl?'102':unc))+'.112]",
+            "prefix": "fun,'_','-'),imn='s_i_'+s.fun,im,b,e,rs='http'+(s.",
+            "exact": "ssl",
+            "suffix": "?'s':\"\n+\"'')+'://'+(ns?ns:(s.ssl?'102':unc))+'.112",
+            "offset": 8283,
+            "length": 3
+        },
+        {
+            "detection": "[,b,e,rs='http'+(s.ssl?'s':\"\n+\"'')+'://'+(ns?ns:(s.]ssl[?'102':unc))+'.112.2O7.net/b/ss/'+s.un+'/1/H\"\n+\".1]",
+            "prefix": ",b,e,rs='http'+(s.ssl?'s':\"\n+\"'')+'://'+(ns?ns:(s.",
+            "exact": "ssl",
+            "suffix": "?'102':unc))+'.112.2O7.net/b/ss/'+s.un+'/1/H\"\n+\".1",
+            "offset": 8315,
+            "length": 3
+        }],
+        "relevance": 0.292,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/641804d8-7e6e-31e8-af50-02823ee3a4ed": {
+        "_type": "Position",
+        "_typeGroup": "entities",
+        "name": "Player ",
+        "instances": [{
+            "detection": "[p;nbsp;&nbsp;CBSSports.com&nbsp;&nbsp;]Player[&nbsp;-->\n&nbsp;&nbsp;&nbsp;CBS]",
+            "prefix": "p;nbsp;&nbsp;CBSSports.com&nbsp;&nbsp;",
+            "exact": "Player",
+            "suffix": "&nbsp;-->\n&nbsp;&nbsp;&nbsp;CBS",
+            "offset": 16706,
+            "length": 6
+        },
+        {
+            "detection": "[YAHOO.widget.DS_XHR(\"/data/]player[/search\",[\"ResultSet.Results\",\"LastnameFirst\"]);th]",
+            "prefix": "YAHOO.widget.DS_XHR(\"/data/",
+            "exact": "player",
+            "suffix": "/search\",[\"ResultSet.Results\",\"LastnameFirst\"]);th",
+            "offset": 16947,
+            "length": 6
+        }],
+        "relevance": 0.265,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/pershash-1/9200cfcf-5ad6-313e-baa9-8568c1d0adc3": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "John Daly",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[PGA&nbsp;| UPDATED: Sun, May 24, 2:26 PM ]John Daly[ wore bright pink trousers during Sunday\\'s final]",
+            "prefix": "PGA&nbsp;| UPDATED: Sun, May 24, 2:26 PM ",
+            "exact": "John Daly",
+            "suffix": " wore bright pink trousers during Sunday\\'s final",
+            "offset": 31851,
+            "length": 9
+        }],
+        "relevance": 0.059,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/3d9b5384-90ee-3001-b908-751f70cb439c": {
+        "_type": "CompanyProduct",
+        "_typeGroup": "relations",
+        "company": "http://d.opencalais.com/comphash-1/7b5d9963-080e-389e-8ad6-279424871c13",
+        "product": "http://d.opencalais.com/genericHasher-1/22b0de39-e3ba-344c-96ef-434b738c18cf",
+        "producttype": "Other",
+        "instances": [{
+            "detection": "[ Coll BK&nbsp;World Sports&nbsp;&nbsp;]CBS College Sports&nbsp;CBS Sports TV&nbsp;The Alt Games&nbsp;Columnists&nbsp;Contests&nbsp;Fantasy FB Today&nbsp;Fantasy[ News&nbsp;Message&nbsp;Board&nbsp;SPi]",
+            "prefix": " Coll BK&nbsp;World Sports&nbsp;&nbsp;",
+            "exact": "CBS College Sports&nbsp;CBS Sports TV&nbsp;The Alt Games&nbsp;Columnists&nbsp;Contests&nbsp;Fantasy FB Today&nbsp;Fantasy",
+            "suffix": " News&nbsp;Message&nbsp;Board&nbsp;SPi",
+            "offset": 21992,
+            "length": 145
+        },
+        {
+            "detection": "[iderTV.comUrbanBaby.comZDNet\");BNET | CBS Cares | ]CBS College Sports[ | CBS Radio | CBS.com | CBSNews.com |]",
+            "prefix": "iderTV.comUrbanBaby.comZDNet\");BNET | CBS Cares | ",
+            "exact": "CBS College Sports",
+            "suffix": " | CBS Radio | CBS.com | CBSNews.com |",
+            "offset": 35594,
+            "length": 18
+        },
+        {
+            "detection": "[ | Terms of Use | Mobile User Agreement\n&nbsp;]CBS Sports[ is a registered trademark of CBS Broadcasting]",
+            "prefix": " | Terms of Use | Mobile User Agreement\n&nbsp;",
+            "exact": "CBS Sports",
+            "suffix": " is a registered trademark of CBS Broadcasting",
+            "offset": 36211,
+            "length": 10
+        }]
+    },
+    "http://d.opencalais.com/pershash-1/84ce2798-4786-3aab-8b82-02a868e47fdd": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Richard Bland",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[birdied the first playoff hole, leaving Hanson, ]Richard Bland[ and Stephen Gallacher to battle on for the last]",
+            "prefix": "birdied the first playoff hole, leaving Hanson, ",
+            "exact": "Richard Bland",
+            "suffix": " and Stephen Gallacher to battle on for the last",
+            "offset": 29361,
+            "length": 13
+        }],
+        "relevance": 0.09,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/d8395dc6-bc7b-3fd8-8cee-3454012708bc": {
+        "_type": "MedicalCondition",
+        "_typeGroup": "entities",
+        "name": "breast cancer",
+        "instances": [{
+            "detection": "[Mickelson\\'s wife after she was diagnosed with ]breast cancer[.',0,event)\" onmouseout=\"javaScript:tooltipOff()\"&]",
+            "prefix": "Mickelson\\'s wife after she was diagnosed with ",
+            "exact": "breast cancer",
+            "suffix": ".',0,event)\" onmouseout=\"javaScript:tooltipOff()\"&",
+            "offset": 32024,
+            "length": 13
+        }],
+        "relevance": 0.057,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/7726f153-6632-376b-8a66-092caefa90a1": {
+        "_type": "SportsEvent",
+        "_typeGroup": "entities",
+        "name": "European Tour",
+        "instances": [{
+            "detection": "[of France and Andrew McLardy were at 137 with ]European Tour[ rookie David Horsey a stroke back.Seventy-five]",
+            "prefix": "of France and Andrew McLardy were at 137 with ",
+            "exact": "European Tour",
+            "suffix": " rookie David Horsey a stroke back.Seventy-five",
+            "offset": 29019,
+            "length": 13
+        }],
+        "relevance": 0.094,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/4f037ef8-b2c0-3f0e-8985-022d65d8c920": {
+        "_type": "URL",
+        "_typeGroup": "entities",
+        "name": "http://www.cbssports.com",
+        "instances": [{
+            "detection": "[linkEvent = \"'window.location=\\\"]http://www.cbssports.com[\"+oResultItem[1].PageURI+\"\\\";'\";var playerDivs =]",
+            "prefix": "linkEvent = \"'window.location=\\\"",
+            "exact": "http://www.cbssports.com",
+            "suffix": "\"+oResultItem[1].PageURI+\"\\\";'\";var playerDivs =",
+            "offset": 16405,
+            "length": 24
+        }],
+        "relevance": 0.267,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/6be07fc3-6583-35db-9097-7ab36182d3c1": {
+        "_type": "SportsEvent",
+        "_typeGroup": "entities",
+        "name": "Byron Nelson Championship",
+        "instances": [{
+            "detection": "[Mon, May 25, 8:03 AMRory Sabbatini won the ]Byron Nelson Championship[ on Sunday, finishing with a two-stroke victory]",
+            "prefix": "Mon, May 25, 8:03 AMRory Sabbatini won the ",
+            "exact": "Byron Nelson Championship",
+            "suffix": " on Sunday, finishing with a two-stroke victory",
+            "offset": 31329,
+            "length": 25
+        }],
+        "relevance": 0.061,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/comphash-1/ba132910-37ea-397d-89f2-ad72a6ed432a": {
+        "_type": "Company",
+        "_typeGroup": "entities",
+        "name": "The Associated Press",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[Levet said.Copyright 2009 by STATS LLC and ]The Associated Press[. Any commercial use or\ndistribution without the]",
+            "prefix": "Levet said.Copyright 2009 by STATS LLC and ",
+            "exact": "The Associated Press",
+            "suffix": ". Any commercial use or\ndistribution without the",
+            "offset": 30666,
+            "length": 20
+        },
+        {
+            "detection": "[the express written consent of STATS LLC and ]The\nAssociated Press[ is strictly prohibited.&nbsp;&nbsp;&n]",
+            "prefix": "the express written consent of STATS LLC and ",
+            "exact": "The\nAssociated Press",
+            "suffix": " is strictly prohibited.&nbsp;&nbsp;&n",
+            "offset": 30776,
+            "length": 20
+        }],
+        "relevance": 0.068,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/670ac6e0-4eed-36f6-81e7-eb47628b841b": {
+        "_type": "ProgrammingLanguage",
+        "_typeGroup": "entities",
+        "name": "V",
+        "instances": [{
+            "detection": "[********************/\n/************************ S_]V[_ACCOUNT CONFIG ************************/\n/* You]",
+            "prefix": "********************/\n/************************ S_",
+            "exact": "V",
+            "suffix": "_ACCOUNT CONFIG ************************/\n/* You",
+            "offset": 3537,
+            "length": 1
+        }],
+        "relevance": 0.3,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/aa51c64c-d9c7-3729-933a-92b4252250a9": {
+        "_type": "SportsEvent",
+        "_typeGroup": "entities",
+        "name": "U.S.Open",
+        "instances": [{
+            "detection": "[with a 6-iron.This will be Jacquelin's first ]U.S.Open[ after he failed to qualify four times.\"I played]",
+            "prefix": "with a 6-iron.This will be Jacquelin's first ",
+            "exact": "U.S.Open",
+            "suffix": " after he failed to qualify four times.\"I played",
+            "offset": 29588,
+            "length": 8
+        }],
+        "relevance": 0.087,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/ce4f7ca7-1701-316c-84f4-4a0bc0136fed": {
+        "_type": "SportsGame",
+        "_typeGroup": "entities",
+        "name": "Tennis",
+        "instances": [{
+            "detection": "[;Olympics&nbsp;Poker&nbsp;Soccer&nbsp;]Tennis[&nbsp;Tour de France&nbsp;WNBA&nbsp;Wo]",
+            "prefix": ";Olympics&nbsp;Poker&nbsp;Soccer&nbsp;",
+            "exact": "Tennis",
+            "suffix": "&nbsp;Tour de France&nbsp;WNBA&nbsp;Wo",
+            "offset": 21881,
+            "length": 6
+        },
+        {
+            "detection": "[npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"]tennis[\"/; res = arena_stats_json.match(patt); if(res !=]",
+            "prefix": "npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"",
+            "exact": "tennis",
+            "suffix": "\"/; res = arena_stats_json.match(patt); if(res !=",
+            "offset": 24406,
+            "length": 6
+        }],
+        "relevance": 0.222,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/pershash-1/bc53fb9a-5121-327b-8238-220c77545172": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Brian Davis",
+        "persontype": "sports",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[with a two-stroke victory over late-charging ]Brian Davis[.',0,event)\" onmouseout=\"javaScript:tooltipOff()\"&]",
+            "prefix": "with a two-stroke victory over late-charging ",
+            "exact": "Brian Davis",
+            "suffix": ".',0,event)\" onmouseout=\"javaScript:tooltipOff()\"&",
+            "offset": 31421,
+            "length": 11
+        },
+        {
+            "detection": "[seout=\"javaScript:tooltipOff()\">Sabbatini tops ]Davis[ at Nelson for first title since]",
+            "prefix": "seout=\"javaScript:tooltipOff()\">Sabbatini tops ",
+            "exact": "Davis",
+            "suffix": " at Nelson for first title since",
+            "offset": 31500,
+            "length": 5
+        }],
+        "relevance": 0.062,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/e1fd0a20-f464-39be-a88f-25038cc7f50c": {
+        "_type": "Country",
+        "_typeGroup": "entities",
+        "name": "France",
+        "instances": [{
+            "detection": "[66 to finish at 8-under.Thomas Levet of ]France[ and Andrew McLardy were at 137 with European]",
+            "prefix": "66 to finish at 8-under.Thomas Levet of ",
+            "exact": "France",
+            "suffix": " and Andrew McLardy were at 137 with European",
+            "offset": 28976,
+            "length": 6
+        }],
+        "relevance": 0.094,
+        "resolutions": [{
+            "name": "France",
+            "shortname": "France",
+            "latitude": "46",
+            "longitude": "2"
+        }]
+    },
+    "http://d.opencalais.com/comphash-1/c7136c67-3c40-33ea-9175-8251893a1cc1": {
+        "_type": "Company",
+        "_typeGroup": "entities",
+        "name": "CBS Radio",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[| CBS Cares | CBS College Sports | ]CBS Radio[ | CBS.com | CBSNews.com | CBSSports.com | CHOW |]",
+            "prefix": "| CBS Cares | CBS College Sports | ",
+            "exact": "CBS Radio",
+            "suffix": " | CBS.com | CBSNews.com | CBSSports.com | CHOW |",
+            "offset": 35615,
+            "length": 9
+        }],
+        "relevance": 0.043,
+        "resolutions": [{
+            "score": 1,
+            "name": "CBS Radio Stations Inc"
+        }]
+    },
+    "http://d.opencalais.com/comphash-1/c937fd9f-7ac3-3483-ba29-3588eda54f73": {
+        "_type": "Company",
+        "_typeGroup": "entities",
+        "name": "CNET Content Solutions",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[ | CBS.com | CBSNews.com | CBSSports.com | CHOW | ]CNET[ | CNET Content Solutions | GameSpot |]",
+            "prefix": " | CBS.com | CBSNews.com | CBSSports.com | CHOW | ",
+            "exact": "CNET",
+            "suffix": " | CNET Content Solutions | GameSpot |",
+            "offset": 35674,
+            "length": 4
+        },
+        {
+            "detection": "[| CBSNews.com | CBSSports.com | CHOW | CNET | ]CNET Content Solutions[ | GameSpot | International | Last.fm | MaxPreps]",
+            "prefix": "| CBSNews.com | CBSSports.com | CHOW | CNET | ",
+            "exact": "CNET Content Solutions",
+            "suffix": " | GameSpot | International | Last.fm | MaxPreps",
+            "offset": 35681,
+            "length": 22
+        }],
+        "relevance": 0.045,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/pershash-1/740e3b71-a459-3ab0-81fe-b6c143247d98": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Peter Hanson",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[for next month's U.S. Open at Bethpage.]Peter Hanson[ grabbed the last of the 11 places available with]",
+            "prefix": "for next month's U.S. Open at Bethpage.",
+            "exact": "Peter Hanson",
+            "suffix": " grabbed the last of the 11 places available with",
+            "offset": 28267,
+            "length": 12
+        },
+        {
+            "detection": "[up that I switched from a 5-iron to a 6-iron,\" ]Hanson[ said.\"This game is just so stupid sometimes...]",
+            "prefix": "up that I switched from a 5-iron to a 6-iron,\" ",
+            "exact": "Hanson",
+            "suffix": " said.\"This game is just so stupid sometimes...",
+            "offset": 28432,
+            "length": 6
+        },
+        {
+            "detection": "[all birdied the first playoff hole, leaving ]Hanson[, Richard Bland and Stephen Gallacher to battle]",
+            "prefix": "all birdied the first playoff hole, leaving ",
+            "exact": "Hanson",
+            "suffix": ", Richard Bland and Stephen Gallacher to battle",
+            "offset": 29353,
+            "length": 6
+        },
+        {
+            "detection": "[ Stephen Gallacher to battle on for the last spot.]Hanson[ grabbed it with a hole in one on the second]",
+            "prefix": " Stephen Gallacher to battle on for the last spot.",
+            "exact": "Hanson",
+            "suffix": " grabbed it with a hole in one on the second",
+            "offset": 29428,
+            "length": 6
+        },
+        {
+            "detection": "[hole, the 206-yard 17th on the Old Course which ]he[ aced with a 6-iron.This will be Jacquelin's]",
+            "prefix": "hole, the 206-yard 17th on the Old Course which ",
+            "exact": "he",
+            "suffix": " aced with a 6-iron.This will be Jacquelin's",
+            "offset": 29535,
+            "length": 2
+        },
+        {
+            "detection": "[will be Jacquelin's first U.S.Open after ]he[ failed to qualify four times.\"I played]",
+            "prefix": "will be Jacquelin's first U.S.Open after ",
+            "exact": "he",
+            "suffix": " failed to qualify four times.\"I played",
+            "offset": 29603,
+            "length": 2
+        }],
+        "relevance": 0.259,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/cda20f86-77e3-3c48-a0d7-55baa73e6635": {
+        "_type": "Quotation",
+        "_typeGroup": "relations",
+        "person": "http://d.opencalais.com/pershash-1/33a077e6-6d14-302b-9851-ae9ae7dce551",
+        "quote": "I was two under this afternoon but just played so much better than that",
+        "instances": [{
+            "detection": "[ been 59. I kind of had it on a string,\" he said. ]\"I was two under this afternoon but just played so much better than that,\" said Dyson, tied sixth in the 2007 U.S. PGA.Levet, who used to be based on the U.S. Tour, was eager to qualify.\"[I want to play in the majors and not commentate]",
+            "prefix": " been 59. I kind of had it on a string,\" he said. ",
+            "exact": "\"I was two under this afternoon but just played so much better than that,\" said Dyson, tied sixth in the 2007 U.S. PGA.Levet, who used to be based on the U.S. Tour, was eager to qualify.\"",
+            "suffix": "I want to play in the majors and not commentate",
+            "offset": 30222,
+            "length": 187
+        }]
+    },
+    "http://d.opencalais.com/pershash-1/675008dc-d17c-35dd-86b6-baca4e8ac7bf": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Paula Creamer",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[on Sunday by one shot over Soo-Yun Kang and ]Paula Creamer[.',0,event)\" onmouseout=\"javaScript:tooltipOff()\"&]",
+            "prefix": "on Sunday by one shot over Soo-Yun Kang and ",
+            "exact": "Paula Creamer",
+            "suffix": ".',0,event)\" onmouseout=\"javaScript:tooltipOff()\"&",
+            "offset": 32271,
+            "length": 13
+        },
+        {
+            "detection": "[edges Kang, charging ]Creamer[ to win Corning4&nbsp;\n&#183;&nbsp;UPD]",
+            "prefix": "edges Kang, charging ",
+            "exact": "Creamer",
+            "suffix": " to win Corning4&nbsp;\n&#183;&nbsp;UPD",
+            "offset": 32364,
+            "length": 7
+        }],
+        "relevance": 0.06,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/6fccb640-8a21-329a-82b8-ada17e56a609": {
+        "_type": "SportsGame",
+        "_typeGroup": "entities",
+        "name": "Soccer",
+        "instances": [{
+            "detection": "[Draft&nbsp;Olympics&nbsp;Poker&nbsp;]Soccer[&nbsp;Tennis&nbsp;Tour de]",
+            "prefix": "Draft&nbsp;Olympics&nbsp;Poker&nbsp;",
+            "exact": "Soccer",
+            "suffix": "&nbsp;Tennis&nbsp;Tour de",
+            "offset": 21865,
+            "length": 6
+        },
+        {
+            "detection": "[npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"]soccer[\"/; res = arena_stats_json.match(patt); if(res !=]",
+            "prefix": "npt.style.display=\"\"; fda++}}patt = /\"top\\d\":\"",
+            "exact": "soccer",
+            "suffix": "\"/; res = arena_stats_json.match(patt); if(res !=",
+            "offset": 25146,
+            "length": 6
+        }],
+        "relevance": 0.231,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/pershash-1/33b52309-76a8-3fc7-a9e4-3b513cca4c42": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Thomas Levet",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[ 70 to his morning's-best 66 to finish at 8-under.]Thomas Levet[ of France and Andrew McLardy were at 137 with]",
+            "prefix": " 70 to his morning's-best 66 to finish at 8-under.",
+            "exact": "Thomas Levet",
+            "suffix": " of France and Andrew McLardy were at 137 with",
+            "offset": 28960,
+            "length": 12
+        },
+        {
+            "detection": "[said Dyson, tied sixth in the 2007 U.S. PGA.]Levet[, who used to be based on the U.S. Tour, was]",
+            "prefix": "said Dyson, tied sixth in the 2007 U.S. PGA.",
+            "exact": "Levet",
+            "suffix": ", who used to be based on the U.S. Tour, was",
+            "offset": 30341,
+            "length": 5
+        },
+        {
+            "detection": "[knew that I could do it today if I kept calm,\" ]Levet[ said.Copyright 2009 by STATS LLC and The]",
+            "prefix": "knew that I could do it today if I kept calm,\" ",
+            "exact": "Levet",
+            "suffix": " said.Copyright 2009 by STATS LLC and The",
+            "offset": 30623,
+            "length": 5
+        }],
+        "relevance": 0.236,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/f923ff07-c671-39b1-bebf-81176b963661": {
+        "_type": "SportsLeague",
+        "_typeGroup": "entities",
+        "name": "MLB",
+        "instances": [{
+            "detection": "[amp;nbsp;Home&nbsp;NFL&nbsp;NCAA&nbsp;]MLB[&nbsp;NBA&nbsp;NHL&nbsp;Fantasy&nb]",
+            "prefix": "amp;nbsp;Home&nbsp;NFL&nbsp;NCAA&nbsp;",
+            "exact": "MLB",
+            "suffix": "&nbsp;NBA&nbsp;NHL&nbsp;Fantasy&nb",
+            "offset": 22750,
+            "length": 3
+        },
+        {
+            "detection": "[;nbsp;NFL&nbsp;&nbsp;|&nbsp;&nbsp;]MLB[&nbsp;&nbsp;|&nbsp;&nbsp;NBA&n]",
+            "prefix": ";nbsp;NFL&nbsp;&nbsp;|&nbsp;&nbsp;",
+            "exact": "MLB",
+            "suffix": "&nbsp;&nbsp;|&nbsp;&nbsp;NBA&n",
+            "offset": 22938,
+            "length": 3
+        }],
+        "relevance": 0.204,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305": {
+        "_type": "Country",
+        "_typeGroup": "entities",
+        "name": "United States",
+        "instances": [{
+            "detection": "[with a 6-iron.This will be Jacquelin's first ]U.S.[Open after he failed to qualify four times.\"I]",
+            "prefix": "with a 6-iron.This will be Jacquelin's first ",
+            "exact": "U.S.",
+            "suffix": "Open after he failed to qualify four times.\"I",
+            "offset": 29588,
+            "length": 4
+        },
+        {
+            "detection": "[ final international qualifying for next month\\'s ]U.S.[ Open at Bethpage.',0,event)\"]",
+            "prefix": " final international qualifying for next month\\'s ",
+            "exact": "U.S.",
+            "suffix": " Open at Bethpage.',0,event)\"",
+            "offset": 31120,
+            "length": 4
+        }],
+        "relevance": 0.102,
+        "resolutions": [{
+            "name": "United States",
+            "shortname": "United States",
+            "latitude": "40.4230003233",
+            "longitude": "-98.7372244786"
+        }]
+    },
+    "http://d.opencalais.com/genericHasher-1/68938e8b-6b9a-34b4-879d-5ee7aadda7a3": {
+        "_type": "Organization",
+        "_typeGroup": "entities",
+        "name": "National Basketball Association",
+        "organizationtype": "sports",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[ard&nbsp;Tickets&nbsp;&nbsp;&nbsp;]NBA[ Home&nbsp;Scoreboard&nbsp;Standings&n]",
+            "prefix": "ard&nbsp;Tickets&nbsp;&nbsp;&nbsp;",
+            "exact": "NBA",
+            "suffix": " Home&nbsp;Scoreboard&nbsp;Standings&n",
+            "offset": 18882,
+            "length": 3
+        },
+        {
+            "detection": "[&nbsp;NFL&nbsp;NCAA&nbsp;MLB&nbsp;]NBA[&nbsp;NHL&nbsp;Fantasy&nbsp;DVD]",
+            "prefix": "&nbsp;NFL&nbsp;NCAA&nbsp;MLB&nbsp;",
+            "exact": "NBA",
+            "suffix": "&nbsp;NHL&nbsp;Fantasy&nbsp;DVD",
+            "offset": 22763,
+            "length": 3
+        },
+        {
+            "detection": "[;nbsp;MLB&nbsp;&nbsp;|&nbsp;&nbsp;]NBA[&nbsp;&nbsp;|&nbsp;&nbsp;NHL&n]",
+            "prefix": ";nbsp;MLB&nbsp;&nbsp;|&nbsp;&nbsp;",
+            "exact": "NBA",
+            "suffix": "&nbsp;&nbsp;|&nbsp;&nbsp;NHL&n",
+            "offset": 22982,
+            "length": 3
+        }],
+        "relevance": 0.26,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/1e810161-f3bb-37de-9e5c-3d839f6fa0a6": {
+        "_type": "Facility",
+        "_typeGroup": "entities",
+        "name": "off';// Sets Arena",
+        "instances": [{
+            "detection": "[this.server_name.indexOf('qa') >=0 ) ? 'on' : ']off';// Sets Arena[, Feature & Site from vTag Passed from]",
+            "prefix": "this.server_name.indexOf('qa') >=0 ) ? 'on' : '",
+            "exact": "off';// Sets Arena",
+            "suffix": ", Feature & Site from vTag Passed from",
+            "offset": 33228,
+            "length": 18
+        }],
+        "relevance": 0.051,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/comphash-1/889212bc-6c50-3e34-b85c-853ef2670533": {
+        "_type": "Company",
+        "_typeGroup": "entities",
+        "name": "2O7.net",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "['s':\"\n+\"'')+'://'+(ns?ns:(s.ssl?'102':unc))+'.112.]2O7.net[/b/ss/'+s.un+'/1/H\"\n+\".1-pdv-2/'+sess+'?[AQB]&]",
+            "prefix": "'s':\"\n+\"'')+'://'+(ns?ns:(s.ssl?'102':unc))+'.112.",
+            "exact": "2O7.net",
+            "suffix": "/b/ss/'+s.un+'/1/H\"\n+\".1-pdv-2/'+sess+'?[AQB]&",
+            "offset": 8337,
+            "length": 7
+        }],
+        "relevance": 0.284,
+        "resolutions": [{
+            "score": 0.90000004,
+            "name": "RENT O NET"
+        }]
+    },
+    "http://d.opencalais.com/pershash-1/a2fa5b51-2743-3527-a175-57318b3d9985": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Jose-Manuel Lara",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[players shot 139 and played off for five spots.]Jose-Manuel Lara[, Jean-Francois Lucquin, Johan Edfors and]",
+            "prefix": "players shot 139 and played off for five spots.",
+            "exact": "Jose-Manuel Lara",
+            "suffix": ", Jean-Francois Lucquin, Johan Edfors and",
+            "offset": 29232,
+            "length": 16
+        }],
+        "relevance": 0.09,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/0a80f5a5-4802-35c7-ab25-37b751386b80": {
+        "_type": "Quotation",
+        "_typeGroup": "relations",
+        "person": "http://d.opencalais.com/pershash-1/480bd268-882a-309c-b09c-a8213a939559",
+        "quote": "If you can make the birdies on the par fives and keep the mistakes off the card then you have a great chance and that's what I did well today",
+        "instances": [{
+            "detection": "[year and was restrained in his approach Monday.\"]If you can make the birdies on the par fives and keep the mistakes off the card then you have a great chance and that's what I did well today,\" he said.[Dyson said his morning 66 on the New Course]",
+            "prefix": "year and was restrained in his approach Monday.\"",
+            "exact": "If you can make the birdies on the par fives and keep the mistakes off the card then you have a great chance and that's what I did well today,\" he said.",
+            "suffix": "Dyson said his morning 66 on the New Course",
+            "offset": 29965,
+            "length": 152
+        }]
+    },
+    "http://d.opencalais.com/genericHasher-1/659b3e3a-2793-3cfa-8f4c-b623d135647e": {
+        "_type": "SportsEvent",
+        "_typeGroup": "entities",
+        "name": "U.S. Open",
+        "instances": [{
+            "detection": "[final international qualifying for next month's ]U.S. Open[ at Bethpage.Peter Hanson grabbed the last of the]",
+            "prefix": "final international qualifying for next month's ",
+            "exact": "U.S. Open",
+            "suffix": " at Bethpage.Peter Hanson grabbed the last of the",
+            "offset": 28245,
+            "length": 9
+        },
+        {
+            "detection": "[Europeans qualify for ]U.S. Open[; ace ends playoff&nbsp;\n&#183;&nbsp;U]",
+            "prefix": "Europeans qualify for ",
+            "exact": "U.S. Open",
+            "suffix": "; ace ends playoff&nbsp;\n&#183;&nbsp;U",
+            "offset": 31219,
+            "length": 9
+        }],
+        "relevance": 0.137,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/e0b9bf9c-4f99-33e2-8113-9f81f3788678": {
+        "_type": "SportsGame",
+        "_typeGroup": "entities",
+        "name": "golf",
+        "instances": [{
+            "detection": "[hdr_width=985;//-->var adLookup=\"media/spln/]golf[/reg/free/stories\";\nif (!dclk_seg) {var]",
+            "prefix": "hdr_width=985;//-->var adLookup=\"media/spln/",
+            "exact": "golf",
+            "suffix": "/reg/free/stories\";\nif (!dclk_seg) {var",
+            "offset": 1466,
+            "length": 4
+        },
+        {
+            "detection": "[ = new contextualAdObj( 'golf/media/stories;arena=]golf[;site=media;feat=stories;type=psa;user=Anonymous']",
+            "prefix": " = new contextualAdObj( 'golf/media/stories;arena=",
+            "exact": "golf",
+            "suffix": ";site=media;feat=stories;type=psa;user=Anonymous'",
+            "offset": 34175,
+            "length": 4
+        }],
+        "relevance": 0.562,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/comphash-1/e89352c3-26e4-3a66-ad04-44040a09fe9a": {
+        "_type": "Company",
+        "_typeGroup": "entities",
+        "name": "visitorSamplingGroup",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[s=this,v=s.visitorSamplin\"\n+\"g,g=s.]visitorSamplingGroup[,k='s_vsn_'+s.un+(g?'_'+g:''),n=s.c_r(k),\"\n+\"e=new]",
+            "prefix": "s=this,v=s.visitorSamplin\"\n+\"g,g=s.",
+            "exact": "visitorSamplingGroup",
+            "suffix": ",k='s_vsn_'+s.un+(g?'_'+g:''),n=s.c_r(k),\"\n+\"e=new",
+            "offset": 12634,
+            "length": 20
+        }],
+        "relevance": 0.274,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/pershash-1/f9a50a02-bac8-3c0f-9cf7-ca03c515b5fb": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "David Horsey",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[McLardy were at 137 with European Tour rookie ]David Horsey[ a stroke back.Seventy-five players were]",
+            "prefix": "McLardy were at 137 with European Tour rookie ",
+            "exact": "David Horsey",
+            "suffix": " a stroke back.Seventy-five players were",
+            "offset": 29040,
+            "length": 12
+        }],
+        "relevance": 0.094,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/57ec77bf-b60a-38f0-88ff-be7a1d80329f": {
+        "_type": "Organization",
+        "_typeGroup": "entities",
+        "name": "fda",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[Shop&nbsp;var npt; var res; var patt; var ]fda[ = 0; var arena_stats_json =]",
+            "prefix": "Shop&nbsp;var npt; var res; var patt; var ",
+            "exact": "fda",
+            "suffix": " = 0; var arena_stats_json =",
+            "offset": 24152,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"tennis\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"tennis\"/; res =",
+            "offset": 24382,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"horseracing\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"horseracing\"/; res =",
+            "offset": 24530,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"boxing\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"boxing\"/; res =",
+            "offset": 24688,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"mma\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"mma\"/; res =",
+            "offset": 24836,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"spin\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"spin\"/; res =",
+            "offset": 24978,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"soccer\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"soccer\"/; res =",
+            "offset": 25122,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"cycling\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"cycling\"/; res =",
+            "offset": 25270,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"arenafootball\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"arenafootball\"/; res =",
+            "offset": 25420,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"ncaawbasketball\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"ncaawbasketball\"/; res =",
+            "offset": 25582,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"collegebaseball\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"collegebaseball\"/; res =",
+            "offset": 25748,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"collegehockey\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"collegehockey\"/; res =",
+            "offset": 25914,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"wnba\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"wnba\"/; res =",
+            "offset": 26076,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"olympics\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"olympics\"/; res =",
+            "offset": 26220,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"poker\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"poker\"/; res =",
+            "offset": 26372,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"worldsports\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"worldsports\"/; res =",
+            "offset": 26518,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}patt = /\"top\\d\":\"cbssports\"/; res =]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}patt = /\"top\\d\":\"cbssports\"/; res =",
+            "offset": 26676,
+            "length": 3
+        },
+        {
+            "detection": "[npt.style.display=\"\"; ]fda[++}}}Golf Home&nbsp;|&nbsp;Leaderboard&amp]",
+            "prefix": "npt.style.display=\"\"; ",
+            "exact": "fda",
+            "suffix": "++}}}Golf Home&nbsp;|&nbsp;Leaderboard&amp",
+            "offset": 26830,
+            "length": 3
+        }],
+        "relevance": 0.387,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/778c7c54-a473-34c3-a741-7b345570def3": {
+        "_type": "Technology",
+        "_typeGroup": "entities",
+        "name": "http",
+        "instances": [{
+            "detection": "[=s.rep(s.fun,'_','-'),imn='s_i_'+s.fun,im,b,e,rs=']http['+(s.ssl?'s':\"\n+\"'')+'://'+(ns?ns:(s.ssl?'102':unc]",
+            "prefix": "=s.rep(s.fun,'_','-'),imn='s_i_'+s.fun,im,b,e,rs='",
+            "exact": "http",
+            "suffix": "'+(s.ssl?'s':\"\n+\"'')+'://'+(ns?ns:(s.ssl?'102':unc",
+            "offset": 8274,
+            "length": 4
+        }],
+        "relevance": 0.289,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/e4dc8e17-eb99-30b8-8941-ca5eaeee7d42": {
+        "_type": "SportsEvent",
+        "_typeGroup": "entities",
+        "name": "NCAA Division I",
+        "instances": [{
+            "detection": "[71 on Friday for a one-stroke victory in the ]NCAA Division I[ Women\\'s Golf Championship, and Arizona State]",
+            "prefix": "71 on Friday for a one-stroke victory in the ",
+            "exact": "NCAA Division I",
+            "suffix": " Women\\'s Golf Championship, and Arizona State",
+            "offset": 32533,
+            "length": 15
+        }],
+        "relevance": 0.055,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/comphash-1/5568ab04-112b-3d70-bc0f-615317e3fbcf": {
+        "_type": "Company",
+        "_typeGroup": "entities",
+        "name": "Nationwide",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[Home&nbsp;Sprint Cup&nbsp;]Nationwide[&nbsp;Trucks&nbsp;IndyCar&nbsp;Formula]",
+            "prefix": "Home&nbsp;Sprint Cup&nbsp;",
+            "exact": "Nationwide",
+            "suffix": "&nbsp;Trucks&nbsp;IndyCar&nbsp;Formula",
+            "offset": 20163,
+            "length": 10
+        }],
+        "relevance": 0.23,
+        "resolutions": [{
+            "score": 1,
+            "name": "Nationwide Corporation",
+            "ticker": "NMUICW"
+        }]
+    },
+    "http://d.opencalais.com/genericHasher-1/de402aa4-fc8b-3163-84fe-c46a21b23a09": {
+        "_type": "SportsEvent",
+        "_typeGroup": "entities",
+        "name": "Sprint Cup",
+        "instances": [{
+            "detection": "[amp;nbsp;&nbsp;&nbsp;Racing Home&nbsp;]Sprint Cup[&nbsp;Nationwide&nbsp;Trucks&nbsp;Indy]",
+            "prefix": "amp;nbsp;&nbsp;&nbsp;Racing Home&nbsp;",
+            "exact": "Sprint Cup",
+            "suffix": "&nbsp;Nationwide&nbsp;Trucks&nbsp;Indy",
+            "offset": 20143,
+            "length": 10
+        }],
+        "relevance": 0.23,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/comphash-1/38341261-3e68-365d-83a2-e7e9b655ad61": {
+        "_type": "Company",
+        "_typeGroup": "entities",
+        "name": "SportsLine.com Inc.",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[a registered trademark of CBS Broadcasting Inc. ]SportsLine[ is a registered service mark of SportsLine.com,]",
+            "prefix": "a registered trademark of CBS Broadcasting Inc. ",
+            "exact": "SportsLine",
+            "suffix": " is a registered service mark of SportsLine.com,",
+            "offset": 36273,
+            "length": 10
+        },
+        {
+            "detection": "[Inc. SportsLine is a registered service mark of ]SportsLine.com, Inc.[var ahY=0;\nvar hdrPosition=whereami('hdrIMG');\nahY]",
+            "prefix": "Inc. SportsLine is a registered service mark of ",
+            "exact": "SportsLine.com, Inc.",
+            "suffix": "var ahY=0;\nvar hdrPosition=whereami('hdrIMG');\nahY",
+            "offset": 36316,
+            "length": 20
+        }],
+        "relevance": 0.041,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/01c4a96d-d29f-3e9f-9c4f-2e3207ac292a": {
+        "_type": "Technology",
+        "_typeGroup": "entities",
+        "name": "Dom",
+        "instances": [{
+            "detection": "[ox,oContainer,sQuery,aResults){var pos=YAHOO.util.]Dom[.getXY(oTextbox);pos[1]+=YAHOO.util.Dom.get(oTextb]",
+            "prefix": "ox,oContainer,sQuery,aResults){var pos=YAHOO.util.",
+            "exact": "Dom",
+            "suffix": ".getXY(oTextbox);pos[1]+=YAHOO.util.Dom.get(oTextb",
+            "offset": 17711,
+            "length": 3
+        },
+        {
+            "detection": "[YAHOO.util.Dom.getXY(oTextbox);pos[1]+=YAHOO.util.]Dom[.get(oTextbox).offsetHeight+2;YAHOO.util.Dom.setXY]",
+            "prefix": "YAHOO.util.Dom.getXY(oTextbox);pos[1]+=YAHOO.util.",
+            "exact": "Dom",
+            "suffix": ".get(oTextbox).offsetHeight+2;YAHOO.util.Dom.setXY",
+            "offset": 17750,
+            "length": 3
+        },
+        {
+            "detection": "[.util.Dom.get(oTextbox).offsetHeight+2;YAHOO.util.]Dom[.setXY(oContainer,pos);return]",
+            "prefix": ".util.Dom.get(oTextbox).offsetHeight+2;YAHOO.util.",
+            "exact": "Dom",
+            "suffix": ".setXY(oContainer,pos);return",
+            "offset": 17794,
+            "length": 3
+        }],
+        "relevance": 0.26,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/f3a50c87-6f7b-3874-8cc8-492db0d47ff1": {
+        "_type": "SportsEvent",
+        "_typeGroup": "entities",
+        "name": "Golf Championship",
+        "instances": [{
+            "detection": "[victory in the NCAA Division I Women\\'s ]Golf Championship[, and Arizona State beat UCLA by eight shots for]",
+            "prefix": "victory in the NCAA Division I Women\\'s ",
+            "exact": "Golf Championship",
+            "suffix": ", and Arizona State beat UCLA by eight shots for",
+            "offset": 32558,
+            "length": 17
+        }],
+        "relevance": 0.055,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/d1c7d89c-9dcc-34e9-88e4-24c7ee099e8d": {
+        "_type": "IndustryTerm",
+        "_typeGroup": "entities",
+        "name": "e - commerce",
+        "instances": [{
+            "detection": "[ You may add or alter any code config here. */\n/* ]E-commerce[ Config */\ns.currencyCode=\"USD\"\n/* Link Tracking]",
+            "prefix": " You may add or alter any code config here. */\n/* ",
+            "exact": "E-commerce",
+            "suffix": " Config */\ns.currencyCode=\"USD\"\n/* Link Tracking",
+            "offset": 2830,
+            "length": 10
+        },
+        {
+            "detection": "[ You may add or alter any code config here. */\n/* ]E-commerce[ Config */\ns_v.currencyCode=\"USD\"\n/* Link]",
+            "prefix": " You may add or alter any code config here. */\n/* ",
+            "exact": "E-commerce",
+            "suffix": " Config */\ns_v.currencyCode=\"USD\"\n/* Link",
+            "offset": 3632,
+            "length": 10
+        }],
+        "relevance": 0.308,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/d1ca27f6-d316-3fe2-915a-a3db3fd656d0": {
+        "_type": "Technology",
+        "_typeGroup": "entities",
+        "name": "Antivirus Software",
+        "instances": [{
+            "detection": "[iPhone 3G | Fantasy Football | Moneywatch | ]Antivirus Software[ | Recipes | Spore\n&nbsp;About CBSSports.com]",
+            "prefix": "iPhone 3G | Fantasy Football | Moneywatch | ",
+            "exact": "Antivirus Software",
+            "suffix": " | Recipes | Spore\n&nbsp;About CBSSports.com",
+            "offset": 35975,
+            "length": 18
+        }],
+        "relevance": 0.042,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/a2e1100e-0704-385e-b072-12d675ab2976": {
+        "_type": "SportsLeague",
+        "_typeGroup": "entities",
+        "name": "NFL",
+        "instances": [{
+            "detection": "[News&nbsp;Message&nbsp;Board&nbsp;]NFL[&nbsp;Draft&nbsp;Tickets&nbsp;&nbs]",
+            "prefix": "News&nbsp;Message&nbsp;Board&nbsp;",
+            "exact": "NFL",
+            "suffix": "&nbsp;Draft&nbsp;Tickets&nbsp;&nbs",
+            "offset": 18563,
+            "length": 3
+        },
+        {
+            "detection": "[;Video&nbsp;&nbsp;&nbsp;Home&nbsp;]NFL[&nbsp;NCAA&nbsp;MLB&nbsp;NBA&nbsp;]",
+            "prefix": ";Video&nbsp;&nbsp;&nbsp;Home&nbsp;",
+            "exact": "NFL",
+            "suffix": "&nbsp;NCAA&nbsp;MLB&nbsp;NBA&nbsp;",
+            "offset": 22723,
+            "length": 3
+        },
+        {
+            "detection": "[amp;nbsp;Home&nbsp;Fantasy&nbsp;&nbsp;]NFL[&nbsp;&nbsp;|&nbsp;&nbsp;MLB&n]",
+            "prefix": "amp;nbsp;Home&nbsp;Fantasy&nbsp;&nbsp;",
+            "exact": "NFL",
+            "suffix": "&nbsp;&nbsp;|&nbsp;&nbsp;MLB&n",
+            "offset": 22894,
+            "length": 3
+        }],
+        "relevance": 0.26,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/459240a4-580b-3342-aa17-3cd7d23a13b5": {
+        "_type": "IndustryTerm",
+        "_typeGroup": "entities",
+        "name": "media/spln/golf/reg/free/stories",
+        "instances": [{
+            "detection": "[= \"u=\";var hdr_width=985;//-->var adLookup=\"]media/spln/golf/reg/free/stories[\";\nif (!dclk_seg) {var dclk_seg='nonaol';}\nif]",
+            "prefix": "= \"u=\";var hdr_width=985;//-->var adLookup=\"",
+            "exact": "media/spln/golf/reg/free/stories",
+            "suffix": "\";\nif (!dclk_seg) {var dclk_seg='nonaol';}\nif",
+            "offset": 1455,
+            "length": 32
+        }],
+        "relevance": 0.305,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/6fda72fd-105c-39ba-bb79-da95785a249f": {
+        "_type": "City",
+        "_typeGroup": "entities",
+        "name": "London",
+        "instances": [{
+            "detection": "[Old and New Courses at Walton Heath, south of ]London[. They finished a stroke clear of Simon Dyson,]",
+            "prefix": "Old and New Courses at Walton Heath, south of ",
+            "exact": "London",
+            "suffix": ". They finished a stroke clear of Simon Dyson,",
+            "offset": 28846,
+            "length": 6
+        }],
+        "relevance": 0.097,
+        "resolutions": [{
+            "name": "London,Greater London,United Kingdom",
+            "shortname": "London",
+            "containedbystate": "Greater London",
+            "containedbycountry": "United Kingdom",
+            "latitude": "51.517124",
+            "longitude": "-0.106196"
+        }]
+    },
+    "http://d.opencalais.com/comphash-1/37be2820-f47b-3a56-a1a6-6d2f1bf40baa": {
+        "_type": "Company",
+        "_typeGroup": "entities",
+        "name": "AOL",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[=arguments,E=null,C,B,D;for(C=0;C0) {var s_prop9=\"]AOL[\"; // for Omniturevar dclk_seg=\"aol\"; // for]",
+            "prefix": "=arguments,E=null,C,B,D;for(C=0;C0) {var s_prop9=\"",
+            "exact": "AOL",
+            "suffix": "\"; // for Omniturevar dclk_seg=\"aol\"; // for",
+            "offset": 887,
+            "length": 3
+        },
+        {
+            "detection": "[- 1];}\n}0) {\nvar s_prop9=\"]AOL[\"; // for Omniture\n}\n/*************************]",
+            "prefix": "- 1];}\n}0) {\nvar s_prop9=\"",
+            "exact": "AOL",
+            "suffix": "\"; // for Omniture\n}\n/*************************",
+            "offset": 2682,
+            "length": 3
+        }],
+        "relevance": 0.311,
+        "resolutions": [{
+            "score": 1,
+            "name": "Time Warner Inc.",
+            "ticker": "TWX"
+        }]
+    },
+    "http://d.opencalais.com/genericHasher-1/fae0c8c6-e406-3f81-93d5-6b10337d34fb": {
+        "_type": "Facility",
+        "_typeGroup": "entities",
+        "name": "DVD Store",
+        "instances": [{
+            "detection": "[p;nbsp;NBA&nbsp;NHL&nbsp;Fantasy&nbsp;]DVD Store[&nbsp;Auctions&nbsp;&nbsp;Home&nbs]",
+            "prefix": "p;nbsp;NBA&nbsp;NHL&nbsp;Fantasy&nbsp;",
+            "exact": "DVD Store",
+            "suffix": "&nbsp;Auctions&nbsp;&nbsp;Home&nbs",
+            "offset": 22806,
+            "length": 9
+        }],
+        "relevance": 0.203,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/3abc8e1d-fc2c-3efa-819c-8e3862492a8e": {
+        "_type": "Quotation",
+        "_typeGroup": "relations",
+        "person": "http://d.opencalais.com/pershash-1/33a077e6-6d14-302b-9851-ae9ae7dce551",
+        "quote": "could have been 59.; I kind of had it on a string",
+        "instances": [{
+            "detection": "[ said.Dyson said his morning 66 on the New Course ]\"could have been 59. I kind of had it on a string,\" he said.[ \"I was two under this afternoon but just played]",
+            "prefix": " said.Dyson said his morning 66 on the New Course ",
+            "exact": "\"could have been 59. I kind of had it on a string,\" he said.",
+            "suffix": " \"I was two under this afternoon but just played",
+            "offset": 30161,
+            "length": 60
+        }]
+    },
+    "http://d.opencalais.com/genericHasher-1/8626fd9e-0864-304c-8c8f-a1c7150115d6": {
+        "_type": "Organization",
+        "_typeGroup": "entities",
+        "name": "Live College",
+        "organizationtype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[Board&nbsp;SPiN&nbsp;Video&nbsp;Watch ]Live College[&nbsp;Sports&nbsp;School]",
+            "prefix": "Board&nbsp;SPiN&nbsp;Video&nbsp;Watch ",
+            "exact": "Live College",
+            "suffix": "&nbsp;Sports&nbsp;School",
+            "offset": 22219,
+            "length": 12
+        },
+        {
+            "detection": "[V&nbsp;&nbsp;|&nbsp;&nbsp;MoreCBS ]College[| MaxPreps| Mobile| Shop&nbsp;var npt; var]",
+            "prefix": "V&nbsp;&nbsp;|&nbsp;&nbsp;MoreCBS ",
+            "exact": "College",
+            "suffix": "| MaxPreps| Mobile| Shop&nbsp;var npt; var",
+            "offset": 24079,
+            "length": 7
+        }],
+        "relevance": 0.214,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/comphash-1/04306766-027f-3851-a4ee-56fd33a03996": {
+        "_type": "Company",
+        "_typeGroup": "entities",
+        "name": "YAHOO",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[n(autoInfo,cTag){containerTag=cTag;this.oACDS=new ]YAHOO[.widget.DS_XHR(\"/data/player/search\",[\"ResultSet.R]",
+            "prefix": "n(autoInfo,cTag){containerTag=cTag;this.oACDS=new ",
+            "exact": "YAHOO",
+            "suffix": ".widget.DS_XHR(\"/data/player/search\",[\"ResultSet.R",
+            "offset": 16920,
+            "length": 5
+        },
+        {
+            "detection": "[riptQueryAppend=\"as=json\";this.oACDS.responseType=]YAHOO[.widget.DS_XHR.TYPE_JSON;this.oAutoComp=new]",
+            "prefix": "riptQueryAppend=\"as=json\";this.oACDS.responseType=",
+            "exact": "YAHOO",
+            "suffix": ".widget.DS_XHR.TYPE_JSON;this.oAutoComp=new",
+            "offset": 17162,
+            "length": 5
+        },
+        {
+            "detection": "[=YAHOO.widget.DS_XHR.TYPE_JSON;this.oAutoComp=new ]YAHOO[.widget.AutoComplete(autoInfo.inputTagId,autoInfo.]",
+            "prefix": "=YAHOO.widget.DS_XHR.TYPE_JSON;this.oAutoComp=new ",
+            "exact": "YAHOO",
+            "suffix": ".widget.AutoComplete(autoInfo.inputTagId,autoInfo.",
+            "offset": 17211,
+            "length": 5
+        },
+        {
+            "detection": "[tion(oTextbox,oContainer,sQuery,aResults){var pos=]YAHOO[.util.Dom.getXY(oTextbox);pos[1]+=YAHOO.util.Dom.g]",
+            "prefix": "tion(oTextbox,oContainer,sQuery,aResults){var pos=",
+            "exact": "YAHOO",
+            "suffix": ".util.Dom.getXY(oTextbox);pos[1]+=YAHOO.util.Dom.g",
+            "offset": 17700,
+            "length": 5
+        },
+        {
+            "detection": "[pos=YAHOO.util.Dom.getXY(oTextbox);pos[1]+=]YAHOO[.util.Dom.get(oTextbox).offsetHeight+2;YAHOO.util.]",
+            "prefix": "pos=YAHOO.util.Dom.getXY(oTextbox);pos[1]+=",
+            "exact": "YAHOO",
+            "suffix": ".util.Dom.get(oTextbox).offsetHeight+2;YAHOO.util.",
+            "offset": 17739,
+            "length": 5
+        },
+        {
+            "detection": "[s[1]+=YAHOO.util.Dom.get(oTextbox).offsetHeight+2;]YAHOO[.util.Dom.setXY(oContainer,pos);return]",
+            "prefix": "s[1]+=YAHOO.util.Dom.get(oTextbox).offsetHeight+2;",
+            "exact": "YAHOO",
+            "suffix": ".util.Dom.setXY(oContainer,pos);return",
+            "offset": 17783,
+            "length": 5
+        }],
+        "relevance": 0.417,
+        "resolutions": [{
+            "score": 1,
+            "name": "Yahoo! Inc.",
+            "ticker": "YHOO"
+        }]
+    },
+    "http://d.opencalais.com/pershash-1/8562bec1-937b-3332-8eb4-66ceed9223e6": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Jean-Francois Lucquin",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[and played off for five spots.Jose-Manuel Lara, ]Jean-Francois Lucquin[, Johan Edfors and Francesco Molinari all birdied]",
+            "prefix": "and played off for five spots.Jose-Manuel Lara, ",
+            "exact": "Jean-Francois Lucquin",
+            "suffix": ", Johan Edfors and Francesco Molinari all birdied",
+            "offset": 29250,
+            "length": 21
+        }],
+        "relevance": 0.09,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/c8b6fb84-67ab-3971-84d0-8d93290240d3": {
+        "_type": "Technology",
+        "_typeGroup": "entities",
+        "name": "3G",
+        "instances": [{
+            "detection": "[| ZDNet\nPopular on CBS sites: iPhone ]3G[ | Fantasy Football | Moneywatch | Antivirus]",
+            "prefix": "| ZDNet\nPopular on CBS sites: iPhone ",
+            "exact": "3G",
+            "suffix": " | Fantasy Football | Moneywatch | Antivirus",
+            "offset": 35938,
+            "length": 2
+        }],
+        "relevance": 0.042,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/51cc1098-eebf-3042-b55c-46117974d025": {
+        "_type": "Country",
+        "_typeGroup": "entities",
+        "name": "South Korea",
+        "instances": [{
+            "detection": "[Sun, May 24, 7:56 PMYani Tseng of ]South Korea[ won the LPGA Corning Classic on Sunday by one]",
+            "prefix": "Sun, May 24, 7:56 PMYani Tseng of ",
+            "exact": "South Korea",
+            "suffix": " won the LPGA Corning Classic on Sunday by one",
+            "offset": 32186,
+            "length": 11
+        }],
+        "relevance": 0.057,
+        "resolutions": [{
+            "name": "South Korea",
+            "shortname": "South Korea",
+            "latitude": "36.4692974125",
+            "longitude": "127.624277169"
+        }]
+    },
+    "http://d.opencalais.com/genericHasher-1/317bd67c-156a-32bd-8a5f-dd97b6d4c5a2": {
+        "_type": "ProvinceOrState",
+        "_typeGroup": "entities",
+        "name": "Arizona",
+        "instances": [{
+            "detection": "[=\"javaScript:tooltipOff()\">Purdue's Hernandez, ]Ariz.[ State win women's NCAAs\n&nbsp;\n&nbsp;\nMor]",
+            "prefix": "=\"javaScript:tooltipOff()\">Purdue's Hernandez, ",
+            "exact": "Ariz.",
+            "suffix": " State win women's NCAAs\n&nbsp;\n&nbsp;\nMor",
+            "offset": 32719,
+            "length": 5
+        }],
+        "relevance": 0.055,
+        "resolutions": [{
+            "name": "Arizona,United States",
+            "shortname": "Arizona",
+            "containedbycountry": "United States",
+            "latitude": "33.8947715893",
+            "longitude": "-111.509465331"
+        }]
+    },
+    "http://d.opencalais.com/comphash-1/520f1c53-ce2b-3f15-a2a4-884b3d6ee740": {
+        "_type": "Company",
+        "_typeGroup": "entities",
+        "name": "Microsoft",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[exOf\"\n+\"('Opera')>=0)apn='Opera';s.isie=(apn==']Microsoft[ Internet Explorer'\"\n+\");s.isns=(apn=='Netscape');]",
+            "prefix": "exOf\"\n+\"('Opera')>=0)apn='Opera';s.isie=(apn=='",
+            "exact": "Microsoft",
+            "suffix": " Internet Explorer'\"\n+\");s.isns=(apn=='Netscape');",
+            "offset": 14364,
+            "length": 9
+        }],
+        "relevance": 0.271,
+        "resolutions": [{
+            "score": 1,
+            "name": "Microsoft Corporation",
+            "ticker": "MSFT"
+        }]
+    },
+    "http://d.opencalais.com/genericHasher-1/94bbe928-315f-3d4c-b418-fb3c58807518": {
+        "_type": "SportsLeague",
+        "_typeGroup": "entities",
+        "name": "NCAA",
+        "instances": [{
+            "detection": "[sp;&nbsp;&nbsp;Home&nbsp;NFL&nbsp;]NCAA[&nbsp;MLB&nbsp;NBA&nbsp;NHL&nbsp;F]",
+            "prefix": "sp;&nbsp;&nbsp;Home&nbsp;NFL&nbsp;",
+            "exact": "NCAA",
+            "suffix": "&nbsp;MLB&nbsp;NBA&nbsp;NHL&nbsp;F",
+            "offset": 22736,
+            "length": 4
+        },
+        {
+            "detection": "[| Moneywatch | MP3.com | mySimon | ]NCAA[ | Search.com | Shopper.com | Showtime |]",
+            "prefix": "| Moneywatch | MP3.com | mySimon | ",
+            "exact": "NCAA",
+            "suffix": " | Search.com | Shopper.com | Showtime |",
+            "offset": 35804,
+            "length": 4
+        }],
+        "relevance": 0.354,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/1d9238ed-05c6-3c33-8356-0806155e39c3": {
+        "_type": "Organization",
+        "_typeGroup": "entities",
+        "name": "National Football League",
+        "organizationtype": "sports",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[ = function() {return;}\n}\n)();&nbsp;&nbsp;]NFL[ Home&nbsp;Scoreboard&nbsp;Standings&n]",
+            "prefix": " = function() {return;}\n}\n)();&nbsp;&nbsp;",
+            "exact": "NFL",
+            "suffix": " Home&nbsp;Scoreboard&nbsp;Standings&n",
+            "offset": 18346,
+            "length": 3
+        },
+        {
+            "detection": "[News&nbsp;Message&nbsp;Board&nbsp;]NFL[&nbsp;Draft&nbsp;Tickets&nbsp;&nbs]",
+            "prefix": "News&nbsp;Message&nbsp;Board&nbsp;",
+            "exact": "NFL",
+            "suffix": "&nbsp;Draft&nbsp;Tickets&nbsp;&nbs",
+            "offset": 18563,
+            "length": 3
+        },
+        {
+            "detection": "[Racing&nbsp;MMA&nbsp;]NFL[ Draft&nbsp;Olympics&nbsp;Poker&nbsp;S]",
+            "prefix": "Racing&nbsp;MMA&nbsp;",
+            "exact": "NFL",
+            "suffix": " Draft&nbsp;Olympics&nbsp;Poker&nbsp;S",
+            "offset": 21813,
+            "length": 3
+        },
+        {
+            "detection": "[;Video&nbsp;&nbsp;&nbsp;Home&nbsp;]NFL[&nbsp;NCAA&nbsp;MLB&nbsp;NBA&nbsp;]",
+            "prefix": ";Video&nbsp;&nbsp;&nbsp;Home&nbsp;",
+            "exact": "NFL",
+            "suffix": "&nbsp;NCAA&nbsp;MLB&nbsp;NBA&nbsp;",
+            "offset": 22723,
+            "length": 3
+        },
+        {
+            "detection": "[amp;nbsp;Home&nbsp;Fantasy&nbsp;&nbsp;]NFL[&nbsp;&nbsp;|&nbsp;&nbsp;MLB&n]",
+            "prefix": "amp;nbsp;Home&nbsp;Fantasy&nbsp;&nbsp;",
+            "exact": "NFL",
+            "suffix": "&nbsp;&nbsp;|&nbsp;&nbsp;MLB&n",
+            "offset": 22894,
+            "length": 3
+        }],
+        "relevance": 0.402,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/pershash-1/8a006980-dc66-3643-90e3-07fcc34059c3": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Mac",
+        "persontype": "entertainment",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[.isopera=(apn=='Opera');s.ismac=(s.u.in\"\n+\"dexOf(']Mac[')>=0);if(ie>0){s.apv=parseInt(i=v.substring]",
+            "prefix": ".isopera=(apn=='Opera');s.ismac=(s.u.in\"\n+\"dexOf('",
+            "exact": "Mac",
+            "suffix": "')>=0);if(ie>0){s.apv=parseInt(i=v.substring",
+            "offset": 14474,
+            "length": 3
+        }],
+        "relevance": 0.271,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/pershash-1/e495421c-d9ff-3732-8bb2-5fddf11f7bd1": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Stephen Gallacher",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[playoff hole, leaving Hanson, Richard Bland and ]Stephen Gallacher[ to battle on for the last spot.Hanson grabbed it]",
+            "prefix": "playoff hole, leaving Hanson, Richard Bland and ",
+            "exact": "Stephen Gallacher",
+            "suffix": " to battle on for the last spot.Hanson grabbed it",
+            "offset": 29379,
+            "length": 17
+        }],
+        "relevance": 0.09,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/pershash-1/9b10b2e0-b7be-308b-a6a1-79404e4f4b37": {
+        "_type": "Person",
+        "_typeGroup": "entities",
+        "name": "Casey Euro",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[ouseout=\"javaScript:tooltipOff()\">Birdies give ]Casey Euro[ PGA&nbsp;| UPDATED: Sun, May 24, 2:26 PM]",
+            "prefix": "ouseout=\"javaScript:tooltipOff()\">Birdies give ",
+            "exact": "Casey Euro",
+            "suffix": " PGA&nbsp;| UPDATED: Sun, May 24, 2:26 PM",
+            "offset": 31795,
+            "length": 10
+        },
+        {
+            "detection": "[of support for Phil Mickelson\\'s wife after ]she[ was diagnosed with breast cancer.',0,event)\"]",
+            "prefix": "of support for Phil Mickelson\\'s wife after ",
+            "exact": "she",
+            "suffix": " was diagnosed with breast cancer.',0,event)\"",
+            "offset": 32001,
+            "length": 3
+        }],
+        "relevance": 0.062,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/3c701a7d-b16f-3ae7-b97e-72b24bc11b4a": {
+        "_type": "IndustryTerm",
+        "_typeGroup": "entities",
+        "name": "Internet Explorer",
+        "instances": [{
+            "detection": "[Opera')>=0)apn='Opera';s.isie=(apn=='Microsoft ]Internet Explorer['\"\n+\");s.isns=(apn=='Netscape');s.isopera=(apn=='O]",
+            "prefix": "Opera')>=0)apn='Opera';s.isie=(apn=='Microsoft ",
+            "exact": "Internet Explorer",
+            "suffix": "'\"\n+\");s.isns=(apn=='Netscape');s.isopera=(apn=='O",
+            "offset": 14374,
+            "length": 17
+        }],
+        "relevance": 0.271,
+        "resolutions": []
+    },
+    "http://d.opencalais.com/genericHasher-1/f863f041-5b94-3d97-a9e1-9861afae21c8": {
+        "_type": "Organization",
+        "_typeGroup": "entities",
+        "name": "Environmental Protection Agency",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "instances": [{
+            "detection": "[.substring(i);i=x.indexOf('%',i)}}return x}\"\n+\";s.]epa[=function(x){var s=this;return]",
+            "prefix": ".substring(i);i=x.indexOf('%',i)}}return x}\"\n+\";s.",
+            "exact": "epa",
+            "suffix": "=function(x){var s=this;return",
+            "offset": 6226,
+            "length": 3
+        },
+        {
+            "detection": "[u&&u.indexOf\"\n+\"(','+un+',')>=0?s.]epa[(t.substring(e+1)):''};s.rq=function(un){var]",
+            "prefix": "u&&u.indexOf\"\n+\"(','+un+',')>=0?s.",
+            "exact": "epa",
+            "suffix": "(t.substring(e+1)):''};s.rq=function(un){var",
+            "offset": 11812,
+            "length": 3
+        }],
+        "relevance": 0.304,
+        "resolutions": []
+    }
+}

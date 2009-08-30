@@ -4,7 +4,7 @@ end
 
 When /^I try and extract a tag '(.*)' which doesn't exist$/ do |tag|
     je = JSONExtractor.new
-    @extraction_results = je.extract(@extraction_input, tag) 
+    @extraction_results = je.extract(@extraction_input, "object", tag) 
 end
 
 Then /^the resultant JSON is empty$/ do
@@ -15,7 +15,7 @@ end
 
 When /^I try and extract the authors name$/ do
     je = JSONExtractor.new
-    @extraction_results = je.extract(@extraction_input, "author")
+    @extraction_results = je.extract(@extraction_input, "object", "author")
 end
 
 Then /^the resultant JSON contains the author details$/ do
@@ -23,3 +23,15 @@ Then /^the resultant JSON contains the author details$/ do
 
    assert_equal(extraction_comparison, @extraction_results)
 end
+
+When /^I try and extract any tags where the publishing date was 1999$/ do
+    je = JSONExtractor.new
+    @extraction_results = je.extract(@extraction_input, "data", "1999")
+end
+
+Then /^the resultant JSON contains the publishing date$/ do
+   extraction_comparison = File.open('features/test_comparisons/published_extraction.json', 'r') {|f| f.readlines.to_s}
+
+   assert_equal(extraction_comparison, @extraction_results)
+end
+
