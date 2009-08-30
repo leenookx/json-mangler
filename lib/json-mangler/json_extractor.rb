@@ -82,27 +82,25 @@ class JSONExtractor
                     @force_capture = true
                 end
 
-                if @force_capture or capture
-                    output << key << ": " << res.to_s
+                if !@force_capture and capture
+                    @output << key << ": " << res.to_s
 
                     # We've stopped capturing locally...
                     capture = false
-
-                    if @current_depth == 0
-                      @output << output
-
-                      # We've reached the bottom of the depth so we can
-                      # stop forcing the capture now.
-                      @force_capture = false
-                    else
-                        @current_depth = @current_depth - 1
-                    end
                 end
 
                 more_pairs = @input.scan(/\s*,\s*/) or break
-
-                if @current_depth > 0
+                if more_pairs
                     output << ", "
+                else
+                    if @force_capture 
+                        if @current_depth == 0
+                            @output << output
+                            @force_capture = false
+                        else
+                            @current_depth = @current_depth - 1
+                        end
+                    end
                 end
             end
             error("Missing object pair") if more_pairs
@@ -143,6 +141,7 @@ class JSONExtractor
             # value that we are searching for...
             if @mode == 2 and string == @searchval
                 @force_capture = true
+                @current_depth = @capture_depth
             end
             string
         else
