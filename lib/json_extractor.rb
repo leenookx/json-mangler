@@ -10,9 +10,11 @@ class JSONExtractor
       @force_capture = false
     end
 
-    def extract(input, extract_mode, search)
+    def extract(input, extract_mode, search, depth = 1)
         @output = ""
         @force_capture = false
+        @capture_depth = depth - 1
+        @current_depth = 0
 
         @input = StringScanner.new( input )
         @searchval = '"' + search + '"'
@@ -69,13 +71,18 @@ class JSONExtractor
                 res = parse_value
 
                 if @mode == 2 and res == @searchval
+                    @current_depth = @capture_depth
                     @force_capture = true
                 end
 
                 if @force_capture or (@mode == 1 and key == @searchval and capture)
                     @output << output << key << ": " << res
                     capture = false
-                    @force_capture = false
+                    if @current_depth == 0
+                      @force_capture = false
+                    else
+                        @current_depth = @current_depth - 1
+                    end
                 end
 
                 more_pairs = @input.scan(/\s*,\s*/) or break
