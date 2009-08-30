@@ -64,28 +64,42 @@ class JSONExtractor
             while key = parse_string
                 @input.scan(/\s*:\s*/) or error("Expecting object separator")
 
+                # If we're in object matching mode and we've found an object
+                # that matches the one we're looking for...
                 if @mode == 1 and key == @searchval
                     capture = true
                 end
 
                 res = parse_value
 
+                # If we're in data matching mode and the data associated
+                # will this object matches what we are looking for...
                 if @mode == 2 and res == @searchval
+                    # Set the 'upward' depth to be captured.
                     @current_depth = @capture_depth
+
+                    # Force the capturing of this object.
                     @force_capture = true
                 end
 
-                if @capture_depth > 0
+                # If we are doing a 'deep' capture...
+                if @current_depth > 0
                     output << key << ": " << res.to_s
                 end
 
                 if @force_capture or (@mode == 1 and key == @searchval and capture)
-                    if @capture_depth == 0
-                        output << key << ": " << res
+                    if @current_depth == 0
+                        output << key << ": " << res.to_s
                     end
+
+                    # We've stopped capturing locally...
                     capture = false
+
                     if @current_depth == 0
                       @output << output
+
+                      # We've reached the bottom of the depth so we can
+                      # stop forcing the capture now.
                       @force_capture = false
                     else
                         @current_depth = @current_depth - 1
@@ -94,7 +108,7 @@ class JSONExtractor
 
                 more_pairs = @input.scan(/\s*,\s*/) or break
 
-                if @capture_depth > 0
+                if @current_depth > 0
                     output << ", "
                 end
             end
