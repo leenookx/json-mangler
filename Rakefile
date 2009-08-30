@@ -1,12 +1,28 @@
 # -*- ruby -*-
 
 require 'rubygems'
-require 'hoe'
+require 'cucumber'
+require 'cucumber/rake/task'
 
-Hoe.spec 'json_mangler' do
-  developer('leenookx', 'lnookx@googlemail.com')
-
-  # self.rubyforge_name = 'json_manglerx' # if different than 'json_mangler'
+Cucumber::Rake::Task.new(:features) do |t|
+  t.cucumber_opts = "features --format pretty"
+  t.rcov = true
 end
+
+begin
+  require 'jeweler'
+  Jeweler::Tasks.new do |gemspec|
+    gemspec.name = "json-mangler"
+    gemspec.summary = "JSON data format mangling tools."
+    gemspec.description = "JSON data format mangling tools."
+    gemspec.email = "lnookx@googlemail.com"
+    gemspec.homepage = "http://github.com/leenookx/json-mangler"
+    gemspec.description = "TODO"
+    gemspec.authors = ["lee nookx"]
+  end
+rescue LoadError
+  puts "Jeweler not available. Install it with: sudo gem install technicalpickles-jeweler -s http://gems.github.com"
+end
+
 
 # vim: syntax=ruby

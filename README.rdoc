@@ -1,4 +1,4 @@
-= json_mangler
+= json-mangler
 
 * http://github.com/leenookx/json-mangler 
 
