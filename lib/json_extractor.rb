@@ -110,6 +110,9 @@ class JSONExtractor
             end
             @input.scan(/"/) or error("Unclosed string")
             string = string + '"'
+            if @mode == 2 and string == @searchval
+                @force_capture = true
+            end
             string
         else
             false

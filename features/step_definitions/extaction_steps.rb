@@ -35,3 +35,7 @@ Then /^the resultant JSON contains the publishing date$/ do
    assert_equal(extraction_comparison, @extraction_results)
 end
 
+Given /^I already have a complicated JSON stream$/ do
+    @extraction_input = File.open('features/mocks/extraction2.json', 'r') {|f| f.readlines.to_s}
+end
+

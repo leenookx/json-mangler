@@ -18,4 +18,8 @@ Feature: Creation
     When I try and extract any tags where the publishing date was 1999
     Then the resultant JSON contains the publishing date
 
+  Scenario: Ensure we can extract data from complicated JSON data
+    Given I already have a complicated JSON stream
+    When I try and extract any tags where the publishing date was 1999
+    Then the resultant JSON contains the publishing date
 
