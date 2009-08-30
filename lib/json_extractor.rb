@@ -7,9 +7,10 @@ class JSONExtractor
 
     def extract(input, search)
         @input = StringScanner.new( input )
-        @searchval = search
-        @capture = false
-        results = "{ \"results\": {" + parse_value + "} }\n"
+        @searchval = '"' + search + '"'
+        @output = ""
+        parse_value
+        results = "{ \"results\": {" + @output + "} }\n"
     end
 
   private
@@ -39,23 +40,25 @@ class JSONExtractor
             output = ""
             more_pairs = false
             while key = parse_string
+            puts "::" + key  + "::" + @searchval + "::"
                 @input.scan(/\s*:\s*/) or error("Expecting object separator")
 
-                if key == @search_val
-                    @capture = true
+                if key == @searchval
+                    capture = true
                 end
 
                 res = parse_value
 
-                if key == @search_val and @capture
-                    output = output + key + ": " + res
+                if key == @searchval and capture
+                    puts "  ! This one matched !"
+                    @output = output + key + ": " + res
+                    capture = false
                 end
 
                 more_pairs = @input.scan(/\s*,\s*/) or break
             end
             error("Missing object pair") if more_pairs
             @input.scan(/\s*\}/) or error("Unclosed object")
-            output
         else
             false
         end
@@ -79,11 +82,12 @@ class JSONExtractor
 
     def parse_string
         if @input.scan(/"/)
-            string = String.new
+            string = '"'
             while contents = parse_string_content || parse_string_escape
                 string << contents
             end
             @input.scan(/"/) or error("Unclosed string")
+            string = string + '"'
             string
         else
             false

@@ -8,3 +8,8 @@ Feature: Creation
     When I try and extract a tag 'non-existant' which doesn't exist
     Then the resultant JSON is empty
 
+  Scenario: Ensure we can extract simple top-level tags
+    Given I already have a JSON stream
+    When I try and extract the authors name 
+    Then the resultant JSON contains the author details
+
