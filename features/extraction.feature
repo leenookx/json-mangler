@@ -23,3 +23,8 @@ Feature: Creation
     When I try and extract any tags where the publishing date was 1999
     Then the resultant JSON contains the publishing date
 
+  Scenario: Ensure that we can extract data from JSON arrays
+    Given I already have a JSON stream
+    When I try and extract data from the keyword array
+    Then the resultant JSON data contains the array
+

@@ -39,3 +39,14 @@ Given /^I already have a complicated JSON stream$/ do
     @extraction_input = File.open('features/mocks/extraction2.json', 'r') {|f| f.readlines.to_s}
 end
 
+When /^I try and extract data from the keyword array$/ do
+    je = JSONExtractor.new
+    @extraction_results = je.extract(@extraction_input, "data", "nonsense") 
+end
+
+Then /^the resultant JSON data contains the array$/ do
+   extraction_comparison = File.open('features/test_comparisons/array_extraction.json', 'r') {|f| f.readlines.to_s}
+
+   assert_equal(extraction_comparison, @extraction_results)
+end
+

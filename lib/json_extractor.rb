@@ -28,6 +28,7 @@ class JSONExtractor
         puts "Extracting data based on '" + extract_mode + "' values."
 
         parse_value
+
         results = "{ \"results\": {" + @output + "} }\n"
     end
 
@@ -72,7 +73,7 @@ class JSONExtractor
                 end
 
                 if @force_capture or (@mode == 1 and key == @searchval and capture)
-                    @output = output + key + ": " + res
+                    @output << output << key << ": " << res
                     capture = false
                     @force_capture = false
                 end
@@ -88,14 +89,16 @@ class JSONExtractor
 
     def parse_array
         if @input.scan(/\[\s*/)
-            array = Array.new
+            array = "["
             more_values = false
             while contents = parse_value rescue nil
                 array << contents
                 more_values = @input.scan(/\s*,\s*/) or break
+                array << ", "
             end
             error("Missing value") if more_values
             @input.scan(/\s*\]/) or error("Unclosed array")
+            array << "]"
             array
         else
             false
