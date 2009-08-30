@@ -88,11 +88,21 @@ class JSONExtractor
 
               puts @force_capture
 
+            if @force_capture
+              puts key
+              puts res
+            end
+
                 if !@force_capture and capture
                     @output << key << ": " << res.to_s
 
                     # We've stopped capturing locally...
                     capture = false
+                end
+
+                if @force_capture and @current_depth == 0
+                    @output << key << ": " << res.to_s
+                    @force_capture = false
                 end
 
                 more_pairs = @input.scan(/\s*,\s*/) or break
@@ -122,6 +132,10 @@ class JSONExtractor
             more_values = false
             while contents = parse_value rescue nil
                 array << contents
+                if contents == @searchval
+                    @force_capture = true
+                    @current_depth = 0
+                end
                 more_values = @input.scan(/\s*,\s*/) or break
                 array << ", "
             end
