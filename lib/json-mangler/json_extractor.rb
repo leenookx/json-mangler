@@ -145,6 +145,9 @@ class JSONExtractor
             end
             @input.scan(/"/) or error("Unclosed string")
             string << '"'
+
+            # If we're in data matching mode and this matches the
+            # value that we are searching for...
             if @mode == 2 and string == @searchval
                 @force_capture = true
             end
