@@ -144,7 +144,7 @@ class JSONExtractor
                 string << contents
             end
             @input.scan(/"/) or error("Unclosed string")
-            string = string + '"'
+            string << '"'
             if @mode == 2 and string == @searchval
                 @force_capture = true
             end
