@@ -82,15 +82,8 @@ class JSONExtractor
                     @force_capture = true
                 end
 
-                # If we are doing a 'deep' capture...
-                if @current_depth > 0
-                    output << key << ": " << res.to_s
-                end
-
                 if @force_capture or capture
-                    if @current_depth == 0
-                        output << key << ": " << res.to_s
-                    end
+                    output << key << ": " << res.to_s
 
                     # We've stopped capturing locally...
                     capture = false
