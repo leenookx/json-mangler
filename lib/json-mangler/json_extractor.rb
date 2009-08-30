@@ -59,6 +59,7 @@ class JSONExtractor
     def parse_object
         if @input.scan(/\{\s*/)
             output = ""
+            start_pos = @input.pos
             more_pairs = false
             capture = false
             while key = parse_string
@@ -86,12 +87,9 @@ class JSONExtractor
                     end
                 end
 
-              puts @force_capture
-
-            if @force_capture
-              puts key
-              puts res
-            end
+              puts @force_capture 
+              puts " --> depth = " + @current_depth.to_s
+              puts " --> " + key + " :: " + res
 
                 if !@force_capture and capture
                     @output << key << ": " << res.to_s
@@ -100,23 +98,33 @@ class JSONExtractor
                     capture = false
                 end
 
-                if @force_capture and @current_depth == 0
-                    @output << key << ": " << res.to_s
-                    @force_capture = false
+                # Handle special case of array match
+                if @force_capture 
+                    if @current_depth == -1
+                        @output << key << ": " << res.to_s
+                        @force_capture = false
+                        @current_depth = 0
+                    end
                 end
 
-                more_pairs = @input.scan(/\s*,\s*/) or break
+                more_pairs = @input.scan(/\s*,\s*/)
                 if more_pairs
                     output << ", "
                 else
-                    if @force_capture 
-                        if @current_depth == 0
-                            @output << output
-                            @force_capture = false
-                        else
-                            @current_depth = @current_depth - 1
-                        end
-                    end
+                     if @force_capture and @current_depth == 0
+                         last_pos = @input.pos
+                         
+                         cur_pos = start_pos
+                         @input.pos = cur_pos
+                         while (cur_pos < last_pos)
+                             @output << @input.getch
+                             cur_pos = cur_pos + 1
+                         end
+
+                         @force_capture = false
+                     else
+                         @current_depth = @current_depth - 1
+                     end
                 end
             end
             error("Missing object pair") if more_pairs
@@ -134,7 +142,7 @@ class JSONExtractor
                 array << contents
                 if contents == @searchval
                     @force_capture = true
-                    @current_depth = 0
+                    @current_depth = -1
                 end
                 more_values = @input.scan(/\s*,\s*/) or break
                 array << ", "
