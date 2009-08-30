@@ -75,12 +75,18 @@ class JSONExtractor
                 # If we're in data matching mode and the data associated
                 # will this object matches what we are looking for...
                 if @mode == 2 and res == @searchval
-                    # Set the 'upward' depth to be captured.
-                    @current_depth = @capture_depth
+                    if @capture_depth > 0
+                        # Set the 'upward' depth to be captured.
+                        @current_depth = @capture_depth
 
-                    # Force the capturing of this object.
-                    @force_capture = true
+                        # Force the capturing of this object.
+                        @force_capture = true
+                    else
+                        capture = true
+                    end
                 end
+
+              puts @force_capture
 
                 if !@force_capture and capture
                     @output << key << ": " << res.to_s
@@ -139,7 +145,7 @@ class JSONExtractor
 
             # If we're in data matching mode and this matches the
             # value that we are searching for...
-            if @mode == 2 and string == @searchval
+            if @mode == 2 and string == @searchval and @capture_depth > 0
                 @force_capture = true
                 @current_depth = @capture_depth
             end
