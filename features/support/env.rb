@@ -7,6 +7,8 @@ require 'cucumber/formatter/unicode'
 
 mangler_file = File.join(File.dirname(__FILE__), *%w[.. .. lib json_mangler.rb])
 require mangler_file
+extractor_file = File.join(File.dirname(__FILE__), *%w[.. .. lib json_extractor.rb])
+require extractor_file
 
  
 World do

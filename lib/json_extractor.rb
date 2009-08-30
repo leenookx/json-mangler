@@ -9,7 +9,7 @@ class JSONExtractor
         @input = StringScanner.new( input )
         @searchval = search
         @capture = false
-        results = "{ \"results\": {" + parse_value + "} }"
+        results = "{ \"results\": {" + parse_value + "} }\n"
     end
 
   private

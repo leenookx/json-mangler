@@ -5,6 +5,6 @@ Feature: Creation
 
   Scenario: Make sure we can't remove any tags unless they exist
     Given I already have a JSON stream
-    When I try and extract some tags which don't exist
+    When I try and extract a tag 'non-existant' which doesn't exist
     Then the resultant JSON is empty
 
