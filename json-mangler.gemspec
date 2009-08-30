@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{json-mangler}
-  s.version = "0.1.0"
+  s.version = "0.1.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["lee nookx"]
@@ -20,6 +20,7 @@ Gem::Specification.new do |s|
     ".autotest",
      ".gitignore",
      "History.txt",
+     "LICENSE",
      "Manifest.txt",
      "README.rdoc",
      "Rakefile",
@@ -46,8 +47,8 @@ Gem::Specification.new do |s|
      "features/test_comparisons/empty_extraction.json",
      "features/test_comparisons/published_extraction.json",
      "json-mangler.gemspec",
-     "lib/json_extractor.rb",
-     "lib/json_mangler.rb",
+     "lib/json-mangler/json_extractor.rb",
+     "lib/json-mangler/json_mangler.rb",
      "test/test_json_mangler.rb"
   ]
   s.has_rdoc = true
