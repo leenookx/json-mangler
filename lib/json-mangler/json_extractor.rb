@@ -87,7 +87,7 @@ class JSONExtractor
                     output << key << ": " << res.to_s
                 end
 
-                if @force_capture or (@mode == 1 and key == @searchval and capture)
+                if @force_capture or capture
                     if @current_depth == 0
                         output << key << ": " << res.to_s
                     end
