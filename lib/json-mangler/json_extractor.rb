@@ -87,10 +87,6 @@ class JSONExtractor
                     end
                 end
 
-              puts @force_capture 
-              puts " --> depth = " + @current_depth.to_s
-              puts " --> " + key + " :: " + res
-
                 if !@force_capture and capture
                     @output << key << ": " << res.to_s
 
