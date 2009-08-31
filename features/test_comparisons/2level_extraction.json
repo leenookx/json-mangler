@@ -1,1 +1,1 @@
-{ "results": {"info": {"author": "My Name", "title": "Document name"}, "bibtex": {"published": "1999", "ISBN": "1234567890"} } }
+{ "results": {"doc": {"title": "A test document", "author": "My Name", "published": "1999", "keywords": ["rubbish", "nonsense"]}  } }
