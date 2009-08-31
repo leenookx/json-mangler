@@ -17,7 +17,6 @@ begin
     gemspec.description = "JSON data format mangling tools."
     gemspec.email = "lnookx@googlemail.com"
     gemspec.homepage = "http://github.com/leenookx/json-mangler"
-    gemspec.description = "TODO"
     gemspec.authors = ["lee nookx"]
   end
 rescue LoadError

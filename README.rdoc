@@ -10,6 +10,7 @@ format.
 == FEATURES/PROBLEMS:
 
 * compact Compacts all duplicated branches.
+* extract Allows searching through the JSON data.
 * prune Allows removal of branches.
 
 == SYNOPSIS:
@@ -18,11 +19,13 @@ format.
 
 == REQUIREMENTS:
 
+* cucumber (only for the unit tests)
 * json
 
 == INSTALL:
 
-* sudo gem install
+* [sudo] gem sources -a http://gems.github.com
+* [sudo] gem install leenookx-json-mangler
 
 == LICENSE:
 
