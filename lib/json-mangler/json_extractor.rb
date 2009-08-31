@@ -15,6 +15,7 @@ class JSONExtractor
         @force_capture = false
         @capture_depth = depth - 1
         @current_depth = 0
+        @num_fragments = 0
 
         @input = StringScanner.new( input )
         @searchval = '"' + search + '"'
@@ -94,7 +95,8 @@ class JSONExtractor
                 end
 
                 if !@force_capture and capture
-                    @output << key << ": " << res.to_s
+                    fragment = key + ": " + res.to_s
+                    add_json_fragment( fragment )
 
                     # We've stopped capturing locally...
                     capture = false
@@ -103,7 +105,8 @@ class JSONExtractor
                 # Handle special case of array match
                 if @force_capture 
                     if @current_depth == -1
-                        @output << key << ": " << res.to_s
+                        fragment = key + ": " + res.to_s
+                        add_json_fragment( fragment )
                         @force_capture = false
                         @current_depth = 0
                     end
@@ -122,10 +125,13 @@ class JSONExtractor
                          last_pos = @input.pos
                          cur_pos = start_pos
                          @input.pos = cur_pos
+                         fragment = ""
                          while (cur_pos < last_pos)
-                             @output << @input.getch
+                             fragment << @input.getch
                              cur_pos = cur_pos + 1
                          end
+
+                         add_json_fragment( fragment )
 
                          @force_capture = false
                      else
@@ -212,6 +218,15 @@ class JSONExtractor
 
     def trim_space
         @input.scan(/\s+/)
+    end
+
+    def add_json_fragment( fragment )
+        @num_fragments = @num_fragments + 1
+        if @num_fragments > 1
+            @output << ", "
+        end
+
+        @output << fragment
     end
 end
 
