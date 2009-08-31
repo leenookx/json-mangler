@@ -32,7 +32,7 @@ class JSONExtractor
 
         parse_value
 
-        results = "{ \"results\": {" + @output + "} }\n"
+        results = "{ \"results\": [" + @output + "] }\n"
     end
 
   private
@@ -226,7 +226,7 @@ class JSONExtractor
             @output << ", "
         end
 
-        @output << fragment
+        @output << '{' << fragment << '}'
     end
 end
 

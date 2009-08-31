@@ -1,1 +1,1 @@
-{ "results": {"title": "A test document", "author": "My Name", "published": "1999", "keywords": ["rubbish", "nonsense"]} }
+{ "results": [{"title": "A test document", "author": "My Name", "published": "1999", "keywords": ["rubbish", "nonsense"]}] }
