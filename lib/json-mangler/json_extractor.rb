@@ -120,9 +120,6 @@ class JSONExtractor
                      # object?
                      if @force_capture and @current_depth == 0
                          last_pos = @input.pos
-
-                         puts "Full object capture: " + start_pos.to_s + " -> " + last_pos.to_s
-                         
                          cur_pos = start_pos
                          @input.pos = cur_pos
                          while (cur_pos < last_pos)
@@ -178,7 +175,6 @@ class JSONExtractor
             # If we're in data matching mode and this matches the
             # value that we are searching for...
             if @mode == 2 and string == @searchval and @capture_depth > 0
-     puts "marked"
                 @force_capture = true
                 @current_depth = @capture_depth
             end
