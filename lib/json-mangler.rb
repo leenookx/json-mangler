@@ -1,2 +1,2 @@
-require 'lib/json-mangler/json_mangler'
-require 'lib/json-mangler/json_extractor'
+require 'json-mangler/json_mangler'
+require 'json-mangler/json_extractor'
